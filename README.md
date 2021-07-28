@@ -5,6 +5,6 @@ CovidPolicy-Canada gathers information on common public health measures for each
 
 Information on public health measures in each province/territory was gathered using government and news websites. [Provincial Measures Timelines](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Mitigation%20implementations%20timelines.xlsx) reports timelines of restrictions for every province.  Using these timelines and data dictionary, provincial CSV file was created. [Provincial CSV file](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Provincial.csv) reports province/territory and degree of restriction implemented by government (on a scale from 0 to 3) on daily basis beginning on January 1, 2020 to present. The CSV file is being updated every 2-3 weeks. 
 
-Format that was used for Data Dictionary and CSV file on this page was inspired by Oxford COVID-19 Government Response Tracker, Blavatnik School of Government, University of Oxford. CSV file has dates in the following format: YYYY - MM - DD. 
+Format for Data Dictionary and CSV file on this page was adapted from Oxford COVID-19 Government Response Tracker, Blavatnik School of Government, University of Oxford. CSV file has dates in the following format: YYYY - MM - DD. 
 
 
