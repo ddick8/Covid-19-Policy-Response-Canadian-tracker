@@ -1735,35 +1735,55 @@ British Columbia,BC,20210626,1,2,1
 British Columbia,BC,20210627,1,2,1
 British Columbia,BC,20210628,1,2,1
 British Columbia,BC,20210629,1,2,1
-British Columbia,BC,20210630,3,2,1
-British Columbia,BC,20210701,3,1,1
-British Columbia,BC,20210702,3,1,1
-British Columbia,BC,20210703,3,1,1
-British Columbia,BC,20210704,3,1,1
-British Columbia,BC,20210705,3,1,1
-British Columbia,BC,20210706,3,1,1
-British Columbia,BC,20210707,3,1,1
-British Columbia,BC,20210708,3,1,1
-British Columbia,BC,20210709,3,1,1
-British Columbia,BC,20210710,3,1,1
-British Columbia,BC,20210711,3,1,1
-British Columbia,BC,20210712,3,1,1
-British Columbia,BC,20210713,3,1,1
-British Columbia,BC,20210714,3,1,1
-British Columbia,BC,20210715,3,1,1
-British Columbia,BC,20210716,3,1,1
-British Columbia,BC,20210717,3,1,1
-British Columbia,BC,20210718,3,1,1
-British Columbia,BC,20210719,3,1,1
-British Columbia,BC,20210720,3,1,1
-British Columbia,BC,20210721,3,1,1
-British Columbia,BC,20210722,3,1,1
-British Columbia,BC,20210723,3,1,1
-British Columbia,BC,20210724,3,1,1
-British Columbia,BC,20210725,3,1,1
-British Columbia,BC,20210726,3,1,1
-British Columbia,BC,20210727,3,1,1
-British Columbia,BC,20210728,3,1,1
+British Columbia,BC,20210630,2,2,1
+British Columbia,BC,20210701,2,1,1
+British Columbia,BC,20210702,2,1,1
+British Columbia,BC,20210703,2,1,1
+British Columbia,BC,20210704,2,1,1
+British Columbia,BC,20210705,2,1,1
+British Columbia,BC,20210706,2,1,1
+British Columbia,BC,20210707,2,1,1
+British Columbia,BC,20210708,2,1,1
+British Columbia,BC,20210709,2,1,1
+British Columbia,BC,20210710,2,1,1
+British Columbia,BC,20210711,2,1,1
+British Columbia,BC,20210712,2,1,1
+British Columbia,BC,20210713,2,1,1
+British Columbia,BC,20210714,2,1,1
+British Columbia,BC,20210715,2,1,1
+British Columbia,BC,20210716,2,1,1
+British Columbia,BC,20210717,2,1,1
+British Columbia,BC,20210718,2,1,1
+British Columbia,BC,20210719,2,1,1
+British Columbia,BC,20210720,2,1,1
+British Columbia,BC,20210721,2,1,1
+British Columbia,BC,20210722,2,1,1
+British Columbia,BC,20210723,2,1,1
+British Columbia,BC,20210724,2,1,1
+British Columbia,BC,20210725,2,1,1
+British Columbia,BC,20210726,2,1,1
+British Columbia,BC,20210727,2,1,1
+British Columbia,BC,20210728,2,1,1
+British Columbia,BC,20210729,2,1,1
+British Columbia,BC,20210730,2,1,1
+British Columbia,BC,20210731,2,1,1
+British Columbia,BC,20210801,2,1,1
+British Columbia,BC,20210802,2,1,1
+British Columbia,BC,20210803,2,1,1
+British Columbia,BC,20210804,2,1,1
+British Columbia,BC,20210805,2,1,1
+British Columbia,BC,20210806,2,1,1
+British Columbia,BC,20210807,2,1,1
+British Columbia,BC,20210808,2,1,1
+British Columbia,BC,20210809,2,1,1
+British Columbia,BC,20210810,2,1,1
+British Columbia,BC,20210811,2,1,1
+British Columbia,BC,20210812,2,1,1
+British Columbia,BC,20210813,2,1,1
+British Columbia,BC,20210814,2,1,1
+British Columbia,BC,20210815,2,1,1
+British Columbia,BC,20210816,2,1,1
+British Columbia,BC,20210817,2,1,1
 Manitoba,MB,20200101,0,0,0
 Manitoba,MB,20200102,0,0,0
 Manitoba,MB,20200103,0,0,0
@@ -2898,42 +2918,62 @@ Northwest Territories,NT,20210619,1,1,1
 Northwest Territories,NT,20210620,1,1,1
 Northwest Territories,NT,20210621,1,1,1
 Northwest Territories,NT,20210622,1,1,1
-Northwest Territories,NT,20210623,3,1,1
-Northwest Territories,NT,20210624,3,1,1
-Northwest Territories,NT,20210625,3,1,1
-Northwest Territories,NT,20210626,3,1,1
-Northwest Territories,NT,20210627,3,1,1
-Northwest Territories,NT,20210628,3,1,1
-Northwest Territories,NT,20210629,3,1,1
-Northwest Territories,NT,20210630,3,1,1
-Northwest Territories,NT,20210701,3,1,1
-Northwest Territories,NT,20210702,3,1,1
-Northwest Territories,NT,20210703,3,1,1
-Northwest Territories,NT,20210704,3,1,1
-Northwest Territories,NT,20210705,3,1,1
-Northwest Territories,NT,20210706,3,1,1
-Northwest Territories,NT,20210707,3,1,1
-Northwest Territories,NT,20210708,3,1,1
-Northwest Territories,NT,20210709,3,1,1
-Northwest Territories,NT,20210710,3,1,1
-Northwest Territories,NT,20210711,3,1,1
-Northwest Territories,NT,20210712,3,1,1
-Northwest Territories,NT,20210713,3,1,1
-Northwest Territories,NT,20210714,3,1,1
-Northwest Territories,NT,20210715,3,1,1
-Northwest Territories,NT,20210716,3,1,1
-Northwest Territories,NT,20210717,3,1,1
-Northwest Territories,NT,20210718,3,1,1
-Northwest Territories,NT,20210719,3,1,1
-Northwest Territories,NT,20210720,3,1,1
-Northwest Territories,NT,20210721,3,1,1
-Northwest Territories,NT,20210722,3,1,1
-Northwest Territories,NT,20210723,3,1,1
-Northwest Territories,NT,20210724,3,1,1
-Northwest Territories,NT,20210725,3,1,1
-Northwest Territories,NT,20210726,3,1,1
-Northwest Territories,NT,20210727,3,1,1
-Northwest Territories,NT,20210728,3,1,1
+Northwest Territories,NT,20210623,2,1,1
+Northwest Territories,NT,20210624,2,1,1
+Northwest Territories,NT,20210625,2,1,1
+Northwest Territories,NT,20210626,2,1,1
+Northwest Territories,NT,20210627,2,1,1
+Northwest Territories,NT,20210628,2,1,1
+Northwest Territories,NT,20210629,2,1,1
+Northwest Territories,NT,20210630,2,1,1
+Northwest Territories,NT,20210701,2,1,1
+Northwest Territories,NT,20210702,2,1,1
+Northwest Territories,NT,20210703,2,1,1
+Northwest Territories,NT,20210704,2,1,1
+Northwest Territories,NT,20210705,2,1,1
+Northwest Territories,NT,20210706,2,1,1
+Northwest Territories,NT,20210707,2,1,1
+Northwest Territories,NT,20210708,2,1,1
+Northwest Territories,NT,20210709,2,1,1
+Northwest Territories,NT,20210710,2,1,1
+Northwest Territories,NT,20210711,2,1,1
+Northwest Territories,NT,20210712,2,1,1
+Northwest Territories,NT,20210713,2,1,1
+Northwest Territories,NT,20210714,2,1,1
+Northwest Territories,NT,20210715,2,1,1
+Northwest Territories,NT,20210716,2,1,1
+Northwest Territories,NT,20210717,2,1,1
+Northwest Territories,NT,20210718,2,1,1
+Northwest Territories,NT,20210719,2,1,1
+Northwest Territories,NT,20210720,2,1,1
+Northwest Territories,NT,20210721,2,1,1
+Northwest Territories,NT,20210722,2,1,1
+Northwest Territories,NT,20210723,2,1,1
+Northwest Territories,NT,20210724,2,1,1
+Northwest Territories,NT,20210725,2,1,1
+Northwest Territories,NT,20210726,2,1,1
+Northwest Territories,NT,20210727,2,1,1
+Northwest Territories,NT,20210728,2,1,1
+Northwest Territories,NT,20210729,2,1,1
+Northwest Territories,NT,20210730,2,1,1
+Northwest Territories,NT,20210731,2,1,1
+Northwest Territories,NT,20210801,2,1,1
+Northwest Territories,NT,20210802,2,1,1
+Northwest Territories,NT,20210803,2,1,1
+Northwest Territories,NT,20210804,2,1,1
+Northwest Territories,NT,20210805,2,1,1
+Northwest Territories,NT,20210806,2,1,1
+Northwest Territories,NT,20210807,2,1,1
+Northwest Territories,NT,20210808,2,1,1
+Northwest Territories,NT,20210809,2,1,1
+Northwest Territories,NT,20210810,2,1,1
+Northwest Territories,NT,20210811,2,1,1
+Northwest Territories,NT,20210812,2,1,1
+Northwest Territories,NT,20210813,2,1,1
+Northwest Territories,NT,20210814,2,1,1
+Northwest Territories,NT,20210815,2,1,1
+Northwest Territories,NT,20210816,2,1,1
+Northwest Territories,NT,20210817,2,1,1
 Nunavut,NU,20200101,0,0,0
 Nunavut,NU,20200102,0,0,0
 Nunavut,NU,20200103,0,0,0
@@ -3476,39 +3516,59 @@ Nunavut,NU,20210622,2,2,1
 Nunavut,NU,20210623,2,2,1
 Nunavut,NU,20210624,2,2,1
 Nunavut,NU,20210625,2,2,1
-Nunavut,NU,20210626,3,2,1
-Nunavut,NU,20210627,3,2,1
-Nunavut,NU,20210628,3,2,1
-Nunavut,NU,20210629,3,2,1
-Nunavut,NU,20210630,3,2,1
-Nunavut,NU,20210701,3,2,1
-Nunavut,NU,20210702,3,1,1
-Nunavut,NU,20210703,3,1,1
-Nunavut,NU,20210704,3,1,1
-Nunavut,NU,20210705,3,1,1
-Nunavut,NU,20210706,3,1,1
-Nunavut,NU,20210707,3,1,1
-Nunavut,NU,20210708,3,1,1
-Nunavut,NU,20210709,3,1,1
-Nunavut,NU,20210710,3,1,1
-Nunavut,NU,20210711,3,1,1
-Nunavut,NU,20210712,3,1,1
-Nunavut,NU,20210713,3,1,1
-Nunavut,NU,20210714,3,1,1
-Nunavut,NU,20210715,3,1,1
-Nunavut,NU,20210716,3,1,1
-Nunavut,NU,20210717,3,1,1
-Nunavut,NU,20210718,3,1,1
-Nunavut,NU,20210719,3,1,1
-Nunavut,NU,20210720,3,1,1
-Nunavut,NU,20210721,3,1,1
-Nunavut,NU,20210722,3,1,1
-Nunavut,NU,20210723,3,1,1
-Nunavut,NU,20210724,3,1,1
-Nunavut,NU,20210725,3,1,1
-Nunavut,NU,20210726,3,1,1
-Nunavut,NU,20210727,3,1,1
-Nunavut,NU,20210728,3,1,1
+Nunavut,NU,20210626,2,2,1
+Nunavut,NU,20210627,2,2,1
+Nunavut,NU,20210628,2,2,1
+Nunavut,NU,20210629,2,2,1
+Nunavut,NU,20210630,2,2,1
+Nunavut,NU,20210701,2,2,1
+Nunavut,NU,20210702,2,1,1
+Nunavut,NU,20210703,2,1,1
+Nunavut,NU,20210704,2,1,1
+Nunavut,NU,20210705,2,1,1
+Nunavut,NU,20210706,2,1,1
+Nunavut,NU,20210707,2,1,1
+Nunavut,NU,20210708,2,1,1
+Nunavut,NU,20210709,2,1,1
+Nunavut,NU,20210710,2,1,1
+Nunavut,NU,20210711,2,1,1
+Nunavut,NU,20210712,2,1,1
+Nunavut,NU,20210713,2,1,1
+Nunavut,NU,20210714,2,1,1
+Nunavut,NU,20210715,2,1,1
+Nunavut,NU,20210716,2,1,1
+Nunavut,NU,20210717,2,1,1
+Nunavut,NU,20210718,2,1,1
+Nunavut,NU,20210719,2,1,1
+Nunavut,NU,20210720,2,1,1
+Nunavut,NU,20210721,2,1,1
+Nunavut,NU,20210722,2,1,1
+Nunavut,NU,20210723,2,1,1
+Nunavut,NU,20210724,2,1,1
+Nunavut,NU,20210725,2,1,1
+Nunavut,NU,20210726,2,1,1
+Nunavut,NU,20210727,2,1,1
+Nunavut,NU,20210728,2,1,1
+Nunavut,NU,20210729,2,1,1
+Nunavut,NU,20210730,2,1,1
+Nunavut,NU,20210731,2,1,1
+Nunavut,NU,20210801,2,1,1
+Nunavut,NU,20210802,2,1,1
+Nunavut,NU,20210803,2,1,1
+Nunavut,NU,20210804,2,1,1
+Nunavut,NU,20210805,2,1,1
+Nunavut,NU,20210806,2,1,1
+Nunavut,NU,20210807,2,1,1
+Nunavut,NU,20210808,2,1,1
+Nunavut,NU,20210809,2,1,1
+Nunavut,NU,20210810,2,1,1
+Nunavut,NU,20210811,2,1,1
+Nunavut,NU,20210812,2,1,1
+Nunavut,NU,20210813,2,1,1
+Nunavut,NU,20210814,2,1,1
+Nunavut,NU,20210815,2,1,1
+Nunavut,NU,20210816,2,1,1
+Nunavut,NU,20210817,2,1,1
 Ontario,ON,20200101,0,0,0
 Ontario,ON,20200102,0,0,0
 Ontario,ON,20200103,0,0,0
@@ -5822,53 +5882,73 @@ Yukon,YT,20210608,1,1,1
 Yukon,YT,20210609,1,1,1
 Yukon,YT,20210610,1,1,1
 Yukon,YT,20210611,1,1,1
-Yukon,YT,20210612,3,1,1
-Yukon,YT,20210613,3,1,1
-Yukon,YT,20210614,3,1,1
-Yukon,YT,20210615,3,1,1
-Yukon,YT,20210616,3,1,1
-Yukon,YT,20210617,3,1,1
-Yukon,YT,20210618,3,1,1
-Yukon,YT,20210619,3,1,1
-Yukon,YT,20210620,3,1,1
-Yukon,YT,20210621,3,1,1
-Yukon,YT,20210622,3,1,1
-Yukon,YT,20210623,3,1,1
-Yukon,YT,20210624,3,1,1
-Yukon,YT,20210625,3,1,1
-Yukon,YT,20210626,3,1,1
-Yukon,YT,20210627,3,1,1
-Yukon,YT,20210628,3,1,1
-Yukon,YT,20210629,3,1,1
-Yukon,YT,20210630,3,1,1
-Yukon,YT,20210701,3,1,1
-Yukon,YT,20210702,3,1,1
-Yukon,YT,20210703,3,1,1
-Yukon,YT,20210704,3,1,1
-Yukon,YT,20210705,3,1,1
-Yukon,YT,20210706,3,1,1
-Yukon,YT,20210707,3,1,1
-Yukon,YT,20210708,3,1,1
-Yukon,YT,20210709,3,1,1
-Yukon,YT,20210710,3,1,1
-Yukon,YT,20210711,3,1,1
-Yukon,YT,20210712,3,1,1
-Yukon,YT,20210713,3,1,1
-Yukon,YT,20210714,3,1,1
-Yukon,YT,20210715,3,1,1
-Yukon,YT,20210716,3,1,1
-Yukon,YT,20210717,3,1,1
-Yukon,YT,20210718,3,1,1
-Yukon,YT,20210719,3,1,1
-Yukon,YT,20210720,3,1,1
-Yukon,YT,20210721,3,1,1
-Yukon,YT,20210722,3,1,1
-Yukon,YT,20210723,3,1,1
-Yukon,YT,20210724,3,1,1
-Yukon,YT,20210725,3,1,1
-Yukon,YT,20210726,3,1,1
-Yukon,YT,20210727,3,1,1
-Yukon,YT,20210728,3,1,1
+Yukon,YT,20210612,2,1,1
+Yukon,YT,20210613,2,1,1
+Yukon,YT,20210614,2,1,1
+Yukon,YT,20210615,2,1,1
+Yukon,YT,20210616,2,1,1
+Yukon,YT,20210617,2,1,1
+Yukon,YT,20210618,2,1,1
+Yukon,YT,20210619,2,1,1
+Yukon,YT,20210620,2,1,1
+Yukon,YT,20210621,2,1,1
+Yukon,YT,20210622,2,1,1
+Yukon,YT,20210623,2,1,1
+Yukon,YT,20210624,2,1,1
+Yukon,YT,20210625,2,1,1
+Yukon,YT,20210626,2,1,1
+Yukon,YT,20210627,2,1,1
+Yukon,YT,20210628,2,1,1
+Yukon,YT,20210629,2,1,1
+Yukon,YT,20210630,2,1,1
+Yukon,YT,20210701,2,1,1
+Yukon,YT,20210702,2,1,1
+Yukon,YT,20210703,2,1,1
+Yukon,YT,20210704,2,1,1
+Yukon,YT,20210705,2,1,1
+Yukon,YT,20210706,2,1,1
+Yukon,YT,20210707,2,1,1
+Yukon,YT,20210708,2,1,1
+Yukon,YT,20210709,2,1,1
+Yukon,YT,20210710,2,1,1
+Yukon,YT,20210711,2,1,1
+Yukon,YT,20210712,2,1,1
+Yukon,YT,20210713,2,1,1
+Yukon,YT,20210714,2,1,1
+Yukon,YT,20210715,2,1,1
+Yukon,YT,20210716,2,1,1
+Yukon,YT,20210717,2,1,1
+Yukon,YT,20210718,2,1,1
+Yukon,YT,20210719,2,1,1
+Yukon,YT,20210720,2,1,1
+Yukon,YT,20210721,2,1,1
+Yukon,YT,20210722,2,1,1
+Yukon,YT,20210723,2,1,1
+Yukon,YT,20210724,2,1,1
+Yukon,YT,20210725,2,1,1
+Yukon,YT,20210726,2,1,1
+Yukon,YT,20210727,2,1,1
+Yukon,YT,20210728,2,1,1
+Yukon,YT,20210729,2,1,1
+Yukon,YT,20210730,2,1,1
+Yukon,YT,20210731,2,1,1
+Yukon,YT,20210801,2,1,1
+Yukon,YT,20210802,2,1,1
+Yukon,YT,20210803,2,1,1
+Yukon,YT,20210804,2,1,1
+Yukon,YT,20210805,2,1,1
+Yukon,YT,20210806,2,1,1
+Yukon,YT,20210807,2,1,1
+Yukon,YT,20210808,2,1,1
+Yukon,YT,20210809,2,1,1
+Yukon,YT,20210810,2,1,1
+Yukon,YT,20210811,2,1,1
+Yukon,YT,20210812,2,1,1
+Yukon,YT,20210813,2,1,1
+Yukon,YT,20210814,2,1,1
+Yukon,YT,20210815,2,1,1
+Yukon,YT,20210816,2,1,1
+Yukon,YT,20210817,2,1,1
 Canada,CA,20200101,0,0,0
 Canada,CA,20200102,0,0,0
 Canada,CA,20200103,0,0,0
@@ -6415,35 +6495,55 @@ Canada,CA,20210626,2,2,2
 Canada,CA,20210627,2,2,2
 Canada,CA,20210628,2,2,2
 Canada,CA,20210629,2,2,2
-Canada,CA,20210630,3,2,1
-Canada,CA,20210701,3,2,1
-Canada,CA,20210702,3,2,1
-Canada,CA,20210703,3,2,1
-Canada,CA,20210704,3,2,1
-Canada,CA,20210705,3,2,1
-Canada,CA,20210706,3,2,1
-Canada,CA,20210707,3,2,1
-Canada,CA,20210708,3,2,1
-Canada,CA,20210709,3,2,1
-Canada,CA,20210710,3,2,1
-Canada,CA,20210711,3,2,1
-Canada,CA,20210712,3,2,1
-Canada,CA,20210713,3,2,1
-Canada,CA,20210714,3,2,1
-Canada,CA,20210715,3,2,1
-Canada,CA,20210716,3,2,1
-Canada,CA,20210717,3,2,1
-Canada,CA,20210718,3,2,1
-Canada,CA,20210719,3,2,1
-Canada,CA,20210720,3,2,1
-Canada,CA,20210721,3,2,1
-Canada,CA,20210722,3,2,1
-Canada,CA,20210723,3,2,1
-Canada,CA,20210724,3,2,1
-Canada,CA,20210725,3,2,1
-Canada,CA,20210726,3,2,1
-Canada,CA,20210727,3,2,1
-Canada,CA,20210728,3,2,1
+Canada,CA,20210630,2,2,1
+Canada,CA,20210701,2,1,1
+Canada,CA,20210702,2,1,1
+Canada,CA,20210703,2,1,1
+Canada,CA,20210704,2,1,1
+Canada,CA,20210705,2,1,1
+Canada,CA,20210706,2,1,1
+Canada,CA,20210707,2,1,1
+Canada,CA,20210708,2,1,1
+Canada,CA,20210709,2,1,1
+Canada,CA,20210710,2,1,1
+Canada,CA,20210711,2,1,1
+Canada,CA,20210712,2,1,1
+Canada,CA,20210713,2,1,1
+Canada,CA,20210714,2,1,1
+Canada,CA,20210715,2,1,1
+Canada,CA,20210716,2,1,1
+Canada,CA,20210717,2,1,1
+Canada,CA,20210718,2,1,1
+Canada,CA,20210719,2,1,1
+Canada,CA,20210720,2,1,1
+Canada,CA,20210721,2,1,1
+Canada,CA,20210722,2,1,1
+Canada,CA,20210723,2,1,1
+Canada,CA,20210724,2,1,1
+Canada,CA,20210725,2,1,1
+Canada,CA,20210726,2,1,1
+Canada,CA,20210727,2,1,1
+Canada,CA,20210728,2,1,1
+Canada,CA,20210729,2,1,1
+Canada,CA,20210730,2,1,1
+Canada,CA,20210731,2,1,1
+Canada,CA,20210801,2,1,1
+Canada,CA,20210802,2,1,1
+Canada,CA,20210803,2,1,1
+Canada,CA,20210804,2,1,1
+Canada,CA,20210805,2,1,1
+Canada,CA,20210806,2,1,1
+Canada,CA,20210807,2,1,1
+Canada,CA,20210808,2,1,1
+Canada,CA,20210809,2,1,1
+Canada,CA,20210810,2,1,1
+Canada,CA,20210811,2,1,1
+Canada,CA,20210812,2,1,1
+Canada,CA,20210813,2,1,1
+Canada,CA,20210814,2,1,1
+Canada,CA,20210815,2,1,1
+Canada,CA,20210816,2,1,1
+Canada,CA,20210817,2,1,1
 New Brunswick,NB,20200101,0,0,0
 New Brunswick,NB,20200102,0,0,0
 New Brunswick,NB,20200103,0,0,0
