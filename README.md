@@ -7,5 +7,5 @@ Information on public health measures in each province/territory was gathered us
 
 Format for Data Dictionary and CSV file on this page was adapted from Oxford COVID-19 Government Response Tracker, Blavatnik School of Government, University of Oxford. CSV file has dates in the following format: YYYY - MM - DD. 
 
-Additionally, our dataset was compared to dataset from Oxford COVID-19 Government Response Tracker. Side by side comparison can be found under [Dataset Comparison] (https://github.com/ddick8/CovidPolicy-Canada/blob/main/Dataset%20comparison.xls).
+Additionally, our dataset was compared to dataset from Oxford COVID-19 Government Response Tracker. Side by side comparison can be found under [Dataset Comparison](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Dataset%20comparison.xls)
 
