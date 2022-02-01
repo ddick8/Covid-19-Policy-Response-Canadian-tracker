@@ -623,101 +623,144 @@ Alberta,AB,20210912,0,1,0,,0
 Alberta,AB,20210913,0,1,0,,0
 Alberta,AB,20210914,0,1,0,,0
 Alberta,AB,20210915,0,1,0,,0
-Alberta,AB,20210916,1,3,2,,0
-Alberta,AB,20210917,1,3,2,,0
-Alberta,AB,20210918,1,3,2,,0
-Alberta,AB,20210919,1,3,2,,0
-Alberta,AB,20210920,1,3,2,,1
-Alberta,AB,20210921,1,3,2,,1
-Alberta,AB,20210922,1,3,2,,1
-Alberta,AB,20210923,1,3,2,,1
-Alberta,AB,20210924,1,3,2,,1
-Alberta,AB,20210925,1,3,2,,1
-Alberta,AB,20210926,1,3,2,,1
-Alberta,AB,20210927,1,3,2,,1
-Alberta,AB,20210928,1,3,2,,1
-Alberta,AB,20210929,1,3,2,,1
-Alberta,AB,20210930,1,3,2,,1
-Alberta,AB,20211001,1,3,2,,1
-Alberta,AB,20211002,1,3,2,,1
-Alberta,AB,20211003,1,3,2,,1
-Alberta,AB,20211004,1,3,2,,1
-Alberta,AB,20211005,1,3,2,,1
-Alberta,AB,20211006,1,3,2,,1
-Alberta,AB,20211007,1,3,2,,1
-Alberta,AB,20211008,1,3,2,,1
-Alberta,AB,20211009,1,3,2,,1
-Alberta,AB,20211010,1,3,2,,1
-Alberta,AB,20211011,1,3,2,,1
-Alberta,AB,20211012,1,3,2,,1
-Alberta,AB,20211013,1,3,2,,1
-Alberta,AB,20211014,1,3,2,,1
-Alberta,AB,20211015,1,3,2,,1
-Alberta,AB,20211016,1,3,2,,1
-Alberta,AB,20211017,1,3,2,,1
-Alberta,AB,20211018,1,3,2,,1
-Alberta,AB,20211019,1,3,2,,1
-Alberta,AB,20211020,1,3,2,,1
-Alberta,AB,20211021,1,3,2,,1
-Alberta,AB,20211022,1,3,2,,1
-Alberta,AB,20211023,1,3,2,,1
-Alberta,AB,20211024,1,3,2,,1
-Alberta,AB,20211025,1,3,2,,1
-Alberta,AB,20211026,1,3,2,,1
-Alberta,AB,20211027,1,3,2,,1
-Alberta,AB,20211028,1,3,2,,1
-Alberta,AB,20211029,1,3,2,,1
-Alberta,AB,20211030,1,3,2,,1
-Alberta,AB,20211101,1,3,2,,1
-Alberta,AB,20211102,1,3,2,,1
-Alberta,AB,20211103,1,3,2,,1
-Alberta,AB,20211104,1,3,2,,1
-Alberta,AB,20211105,1,3,2,,1
-Alberta,AB,20211106,1,3,2,,1
-Alberta,AB,20211107,1,3,2,,1
-Alberta,AB,20211108,1,3,2,,1
-Alberta,AB,20211109,1,3,2,,1
-Alberta,AB,20211110,1,3,2,,1
-Alberta,AB,20211111,1,3,2,,1
-Alberta,AB,20211112,1,3,2,,1
-Alberta,AB,20211113,1,3,2,,1
-Alberta,AB,20211114,1,3,2,,1
-Alberta,AB,20211115,1,3,2,,1
-Alberta,AB,20211116,1,3,2,,1
-Alberta,AB,20211117,1,3,2,,1
-Alberta,AB,20211118,1,3,2,,1
-Alberta,AB,20211119,1,3,2,,1
-Alberta,AB,20211120,1,3,2,,1
-Alberta,AB,20211121,1,3,2,,1
-Alberta,AB,20211122,1,3,2,,1
-Alberta,AB,20211123,1,3,2,,1
-Alberta,AB,20211124,1,3,2,,1
-Alberta,AB,20211125,1,3,2,,1
-Alberta,AB,20211126,1,3,2,,1
-Alberta,AB,20211127,1,3,2,,1
-Alberta,AB,20211128,1,3,2,,1
-Alberta,AB,20211129,1,3,2,,1
-Alberta,AB,20211130,1,3,2,,1
-Alberta,AB,20211201,1,3,2,,1
-Alberta,AB,20211202,1,3,2,,1
-Alberta,AB,20211203,1,3,2,,1
-Alberta,AB,20211204,1,3,2,,1
-Alberta,AB,20211205,1,3,2,,1
-Alberta,AB,20211206,1,3,2,,1
-Alberta,AB,20211207,1,3,2,,1
-Alberta,AB,20211208,1,3,2,,1
-Alberta,AB,20211209,1,3,2,,1
-Alberta,AB,20211210,1,3,2,,1
-Alberta,AB,20211211,1,3,2,,1
-Alberta,AB,20211212,1,3,2,,1
-Alberta,AB,20211213,1,3,2,,1
-Alberta,AB,20211214,1,3,2,,1
-Alberta,AB,20211215,1,3,2,,1
-Alberta,AB,20211216,1,3,2,,1
-Alberta,AB,20211217,1,3,2,,1
-Alberta,AB,20211218,1,3,2,,1
-Alberta,AB,20211219,1,3,2,,1
-Alberta,AB,20211220,1,3,2,,1
+Alberta,AB,20210916,1,3,1,,0
+Alberta,AB,20210917,1,3,1,,0
+Alberta,AB,20210918,1,3,1,,0
+Alberta,AB,20210919,1,3,1,,0
+Alberta,AB,20210920,1,3,1,,1
+Alberta,AB,20210921,1,3,1,,1
+Alberta,AB,20210922,1,3,1,,1
+Alberta,AB,20210923,1,3,1,,1
+Alberta,AB,20210924,1,3,1,,1
+Alberta,AB,20210925,1,3,1,,1
+Alberta,AB,20210926,1,3,1,,1
+Alberta,AB,20210927,1,3,1,,1
+Alberta,AB,20210928,1,3,1,,1
+Alberta,AB,20210929,1,3,1,,1
+Alberta,AB,20210930,1,3,1,,1
+Alberta,AB,20211001,1,3,1,,1
+Alberta,AB,20211002,1,3,1,,1
+Alberta,AB,20211003,1,3,1,,1
+Alberta,AB,20211004,1,3,1,,1
+Alberta,AB,20211005,1,3,1,,1
+Alberta,AB,20211006,1,3,1,,1
+Alberta,AB,20211007,1,3,1,,1
+Alberta,AB,20211008,1,3,1,,1
+Alberta,AB,20211009,1,3,1,,1
+Alberta,AB,20211010,1,3,1,,1
+Alberta,AB,20211011,1,3,1,,1
+Alberta,AB,20211012,1,3,1,,1
+Alberta,AB,20211013,1,3,1,,1
+Alberta,AB,20211014,1,3,1,,1
+Alberta,AB,20211015,1,3,1,,1
+Alberta,AB,20211016,1,3,1,,1
+Alberta,AB,20211017,1,3,1,,1
+Alberta,AB,20211018,1,3,1,,1
+Alberta,AB,20211019,1,3,1,,1
+Alberta,AB,20211020,1,3,1,,1
+Alberta,AB,20211021,1,3,1,,1
+Alberta,AB,20211022,1,3,1,,1
+Alberta,AB,20211023,1,3,1,,1
+Alberta,AB,20211024,1,3,1,,1
+Alberta,AB,20211025,1,3,1,,1
+Alberta,AB,20211026,1,3,1,,1
+Alberta,AB,20211027,1,3,1,,1
+Alberta,AB,20211028,1,3,1,,1
+Alberta,AB,20211029,1,3,1,,1
+Alberta,AB,20211030,1,3,1,,1
+Alberta,AB,20211101,1,3,1,,1
+Alberta,AB,20211102,1,3,1,,1
+Alberta,AB,20211103,1,3,1,,1
+Alberta,AB,20211104,1,3,1,,1
+Alberta,AB,20211105,1,3,1,,1
+Alberta,AB,20211106,1,3,1,,1
+Alberta,AB,20211107,1,3,1,,1
+Alberta,AB,20211108,1,3,1,,1
+Alberta,AB,20211109,1,3,1,,1
+Alberta,AB,20211110,1,3,1,,1
+Alberta,AB,20211111,1,3,1,,1
+Alberta,AB,20211112,1,3,1,,1
+Alberta,AB,20211113,1,3,1,,1
+Alberta,AB,20211114,1,3,1,,1
+Alberta,AB,20211115,1,3,1,,1
+Alberta,AB,20211116,1,3,1,,1
+Alberta,AB,20211117,1,3,1,,1
+Alberta,AB,20211118,1,3,1,,1
+Alberta,AB,20211119,1,3,1,,1
+Alberta,AB,20211120,1,3,1,,1
+Alberta,AB,20211121,1,3,1,,1
+Alberta,AB,20211122,1,3,1,,1
+Alberta,AB,20211123,1,3,1,,1
+Alberta,AB,20211124,1,3,1,,1
+Alberta,AB,20211125,1,3,1,,1
+Alberta,AB,20211126,1,3,1,,1
+Alberta,AB,20211127,1,3,1,,1
+Alberta,AB,20211128,1,3,1,,1
+Alberta,AB,20211129,1,3,1,,1
+Alberta,AB,20211130,1,3,1,,1
+Alberta,AB,20211201,1,3,1,,1
+Alberta,AB,20211202,1,3,1,,1
+Alberta,AB,20211203,1,3,1,,1
+Alberta,AB,20211204,1,3,1,,1
+Alberta,AB,20211205,1,3,1,,1
+Alberta,AB,20211206,1,3,1,,1
+Alberta,AB,20211207,1,3,1,,1
+Alberta,AB,20211208,1,3,1,,1
+Alberta,AB,20211209,1,3,1,,1
+Alberta,AB,20211210,1,3,1,,1
+Alberta,AB,20211211,1,3,1,,1
+Alberta,AB,20211212,1,3,1,,1
+Alberta,AB,20211213,1,3,1,,1
+Alberta,AB,20211214,1,3,1,,1
+Alberta,AB,20211215,1,3,1,,1
+Alberta,AB,20211216,1,3,1,,1
+Alberta,AB,20211217,1,3,1,,1
+Alberta,AB,20211218,3,3,1,,1
+Alberta,AB,20211219,3,3,1,,1
+Alberta,AB,20211220,3,3,1,,1
+Alberta,AB,20211221,3,3,1,,1
+Alberta,AB,20211222,3,3,1,,1
+Alberta,AB,20211223,3,3,1,,1
+Alberta,AB,20211224,3,3,1,,1
+Alberta,AB,20211225,3,3,1,,1
+Alberta,AB,20211226,3,3,1,,1
+Alberta,AB,20211227,3,3,1,,1
+Alberta,AB,20211228,3,3,1,,1
+Alberta,AB,20211229,3,3,1,,1
+Alberta,AB,20211230,3,3,1,,1
+Alberta,AB,20211231,3,3,1,,1
+Alberta,AB,20220101,3,3,1,,1
+Alberta,AB,20220102,3,3,1,,1
+Alberta,AB,20220103,3,3,1,,1
+Alberta,AB,20220104,3,3,1,,1
+Alberta,AB,20220105,3,3,1,,1
+Alberta,AB,20220106,3,3,1,,1
+Alberta,AB,20220107,3,3,1,,1
+Alberta,AB,20220108,3,3,1,,1
+Alberta,AB,20220109,3,3,1,,1
+Alberta,AB,20220110,1,3,1,,1
+Alberta,AB,20220111,1,3,1,,1
+Alberta,AB,20220112,1,3,1,,1
+Alberta,AB,20220113,1,3,1,,1
+Alberta,AB,20220114,1,3,1,,1
+Alberta,AB,20220115,1,3,1,,1
+Alberta,AB,20220116,1,3,1,,1
+Alberta,AB,20220117,1,3,1,,1
+Alberta,AB,20220118,1,3,1,,1
+Alberta,AB,20220119,1,3,1,,1
+Alberta,AB,20220120,1,3,1,,1
+Alberta,AB,20220121,1,3,1,,1
+Alberta,AB,20220122,1,3,1,,1
+Alberta,AB,20220123,1,3,1,,1
+Alberta,AB,20220124,1,3,1,,1
+Alberta,AB,20220125,1,3,1,,1
+Alberta,AB,20220126,1,3,1,,1
+Alberta,AB,20220127,1,3,1,,1
+Alberta,AB,20220128,1,3,1,,1
+Alberta,AB,20220129,1,3,1,,1
+Alberta,AB,20220130,1,3,1,,1
+Alberta,AB,20220131,1,3,1,,1
+Alberta,AB,20220201,1,3,1,,1
 Atlantic Bubble,ALB,20200101,0,0,0,,
 Atlantic Bubble,ALB,20200102,0,0,0,,
 Atlantic Bubble,ALB,20200103,0,0,0,,
@@ -2177,6 +2220,28 @@ British Columbia,BC,20220107,3,3,1,,1
 British Columbia,BC,20220108,3,3,1,,1
 British Columbia,BC,20220109,3,3,1,,1
 British Columbia,BC,20220110,3,3,1,,1
+British Columbia,BC,20220111,1,3,1,,1
+British Columbia,BC,20220112,1,3,1,,1
+British Columbia,BC,20220113,1,3,1,,1
+British Columbia,BC,20220114,1,3,1,,1
+British Columbia,BC,20220115,1,3,1,,1
+British Columbia,BC,20220116,1,3,1,,1
+British Columbia,BC,20220117,1,3,1,,1
+British Columbia,BC,20220118,1,3,1,,1
+British Columbia,BC,20220119,1,3,1,,1
+British Columbia,BC,20220120,1,3,1,,1
+British Columbia,BC,20220121,1,3,1,,1
+British Columbia,BC,20220122,1,3,1,,1
+British Columbia,BC,20220123,1,3,1,,1
+British Columbia,BC,20220124,1,3,1,,1
+British Columbia,BC,20220125,1,3,1,,1
+British Columbia,BC,20220126,1,3,1,,1
+British Columbia,BC,20220127,1,3,1,,1
+British Columbia,BC,20220128,1,3,1,,1
+British Columbia,BC,20220129,1,3,1,,1
+British Columbia,BC,20220130,1,3,1,,1
+British Columbia,BC,20220131,1,3,1,,1
+British Columbia,BC,20220201,1,3,1,,1
 Manitoba,MB,20200101,0,0,0,,0
 Manitoba,MB,20200102,0,0,0,,0
 Manitoba,MB,20200103,0,0,0,,0
@@ -2534,18 +2599,18 @@ Manitoba,MB,20201219,2,3,3,,0
 Manitoba,MB,20201220,2,3,3,,0
 Manitoba,MB,20201221,2,3,3,,0
 Manitoba,MB,20201222,2,3,3,,0
-Manitoba,MB,20201223,2,3,3,,0
-Manitoba,MB,20201224,2,3,3,,0
-Manitoba,MB,20201225,2,3,3,,0
-Manitoba,MB,20201226,2,3,3,,0
-Manitoba,MB,20201227,2,3,3,,0
-Manitoba,MB,20201228,2,3,3,,0
-Manitoba,MB,20201229,2,3,3,,0
-Manitoba,MB,20201230,2,3,3,,0
-Manitoba,MB,20201231,2,3,3,,0
-Manitoba,MB,20210101,2,3,3,,0
-Manitoba,MB,20210102,2,3,3,,0
-Manitoba,MB,20210103,2,3,3,,0
+Manitoba,MB,20201223,3,3,3,,0
+Manitoba,MB,20201224,3,3,3,,0
+Manitoba,MB,20201225,3,3,3,,0
+Manitoba,MB,20201226,3,3,3,,0
+Manitoba,MB,20201227,3,3,3,,0
+Manitoba,MB,20201228,3,3,3,,0
+Manitoba,MB,20201229,3,3,3,,0
+Manitoba,MB,20201230,3,3,3,,0
+Manitoba,MB,20201231,3,3,3,,0
+Manitoba,MB,20210101,3,3,3,,0
+Manitoba,MB,20210102,3,3,3,,0
+Manitoba,MB,20210103,3,3,3,,0
 Manitoba,MB,20210104,2,3,3,,0
 Manitoba,MB,20210105,2,3,3,,0
 Manitoba,MB,20210106,2,3,3,,0
@@ -2896,6 +2961,49 @@ Manitoba,MB,20211217,1,3,1,,1
 Manitoba,MB,20211218,1,3,1,,1
 Manitoba,MB,20211219,1,3,1,,1
 Manitoba,MB,20211220,1,3,1,,1
+Manitoba,MB,20211221,1,3,1,,1
+Manitoba,MB,20211222,1,3,1,,1
+Manitoba,MB,20211223,3,3,1,,1
+Manitoba,MB,20211224,3,3,1,,1
+Manitoba,MB,20211225,3,3,1,,1
+Manitoba,MB,20211226,3,3,1,,1
+Manitoba,MB,20211227,3,3,1,,1
+Manitoba,MB,20211228,3,3,1,,1
+Manitoba,MB,20211229,3,3,1,,1
+Manitoba,MB,20211230,3,3,1,,1
+Manitoba,MB,20211231,3,3,1,,1
+Manitoba,MB,20220101,3,3,1,,1
+Manitoba,MB,20220102,3,3,1,,1
+Manitoba,MB,20220103,3,3,1,,1
+Manitoba,MB,20220104,3,3,1,,1
+Manitoba,MB,20220105,3,3,1,,1
+Manitoba,MB,20220106,3,3,1,,1
+Manitoba,MB,20220107,3,3,1,,1
+Manitoba,MB,20220108,3,3,1,,1
+Manitoba,MB,20220109,3,3,1,,1
+Manitoba,MB,20220110,1,3,1,,1
+Manitoba,MB,20220111,1,3,1,,1
+Manitoba,MB,20220112,1,3,1,,1
+Manitoba,MB,20220113,1,3,1,,1
+Manitoba,MB,20220114,1,3,1,,1
+Manitoba,MB,20220115,1,3,1,,1
+Manitoba,MB,20220116,1,3,1,,1
+Manitoba,MB,20220117,1,3,1,,1
+Manitoba,MB,20220118,1,3,1,,1
+Manitoba,MB,20220119,1,3,1,,1
+Manitoba,MB,20220120,1,3,1,,1
+Manitoba,MB,20220121,1,3,1,,1
+Manitoba,MB,20220122,1,3,1,,1
+Manitoba,MB,20220123,1,3,1,,1
+Manitoba,MB,20220124,1,3,1,,1
+Manitoba,MB,20220125,1,3,1,,1
+Manitoba,MB,20220126,1,3,1,,1
+Manitoba,MB,20220127,1,3,1,,1
+Manitoba,MB,20220128,1,3,1,,1
+Manitoba,MB,20220129,1,3,1,,1
+Manitoba,MB,20220130,1,3,1,,1
+Manitoba,MB,20220131,1,3,1,,1
+Manitoba,MB,20220201,1,3,1,,1
 Northwest Territories,NT,20200101,0,0,0,,0
 Northwest Territories,NT,20200102,0,0,0,,0
 Northwest Territories,NT,20200103,0,0,0,,0
@@ -3253,20 +3361,20 @@ Northwest Territories,NT,20201219,2,2,1,,0
 Northwest Territories,NT,20201220,2,2,1,,0
 Northwest Territories,NT,20201221,2,2,1,,0
 Northwest Territories,NT,20201222,2,2,1,,0
-Northwest Territories,NT,20201223,2,2,1,,0
-Northwest Territories,NT,20201224,2,2,1,,0
-Northwest Territories,NT,20201225,2,2,1,,0
-Northwest Territories,NT,20201226,2,2,1,,0
-Northwest Territories,NT,20201227,2,2,1,,0
-Northwest Territories,NT,20201228,2,2,1,,0
-Northwest Territories,NT,20201229,2,2,1,,0
-Northwest Territories,NT,20201230,2,2,1,,0
-Northwest Territories,NT,20201231,2,2,1,,0
-Northwest Territories,NT,20210101,2,2,1,,0
-Northwest Territories,NT,20210102,2,2,1,,0
-Northwest Territories,NT,20210103,2,2,1,,0
-Northwest Territories,NT,20210104,2,2,1,,0
-Northwest Territories,NT,20210105,2,2,1,,0
+Northwest Territories,NT,20201223,3,2,1,,0
+Northwest Territories,NT,20201224,3,2,1,,0
+Northwest Territories,NT,20201225,3,2,1,,0
+Northwest Territories,NT,20201226,3,2,1,,0
+Northwest Territories,NT,20201227,3,2,1,,0
+Northwest Territories,NT,20201228,3,2,1,,0
+Northwest Territories,NT,20201229,3,2,1,,0
+Northwest Territories,NT,20201230,3,2,1,,0
+Northwest Territories,NT,20201231,3,2,1,,0
+Northwest Territories,NT,20210101,3,2,1,,0
+Northwest Territories,NT,20210102,3,2,1,,0
+Northwest Territories,NT,20210103,3,2,1,,0
+Northwest Territories,NT,20210104,3,2,1,,0
+Northwest Territories,NT,20210105,3,2,1,,0
 Northwest Territories,NT,20210106,2,2,1,,0
 Northwest Territories,NT,20210107,2,2,1,,0
 Northwest Territories,NT,20210108,2,2,1,,0
@@ -5790,9 +5898,9 @@ Quebec,QC,20211213,1,1,1,,1
 Quebec,QC,20211214,1,1,1,,1
 Quebec,QC,20211215,1,1,1,,1
 Quebec,QC,20211216,1,1,1,,1
-Quebec,QC,20211217,3,3,1,,1
-Quebec,QC,20211218,3,3,1,,1
-Quebec,QC,20211219,3,3,1,,1
+Quebec,QC,20211217,1,3,1,,1
+Quebec,QC,20211218,1,3,1,,1
+Quebec,QC,20211219,1,3,1,,1
 Quebec,QC,20211220,3,3,1,,1
 Quebec,QC,20211221,3,3,1,,1
 Quebec,QC,20211222,3,3,1,,1
@@ -5804,17 +5912,38 @@ Quebec,QC,20211227,3,3,1,,1
 Quebec,QC,20211228,3,3,1,,1
 Quebec,QC,20211229,3,3,1,,1
 Quebec,QC,20211230,3,3,1,,1
-Quebec,QC,20211231,3,3,2,,1
-Quebec,QC,20220101,3,3,2,,1
-Quebec,QC,20220102,3,3,2,,1
-Quebec,QC,20220103,3,3,2,,1
-Quebec,QC,20220104,3,3,2,,1
-Quebec,QC,20220105,3,3,2,,1
-Quebec,QC,20220106,3,3,2,,1
-Quebec,QC,20220107,3,3,2,,1
-Quebec,QC,20220108,3,3,2,,1
-Quebec,QC,20220109,3,3,2,,1
-Quebec,QC,20220110,3,3,2,,1
+Quebec,QC,20211231,3,3,3,,1
+Quebec,QC,20220101,3,3,3,,1
+Quebec,QC,20220102,3,3,3,,1
+Quebec,QC,20220103,3,3,3,,1
+Quebec,QC,20220104,3,3,3,,1
+Quebec,QC,20220105,3,3,3,,1
+Quebec,QC,20220106,3,3,3,,1
+Quebec,QC,20220107,3,3,3,,1
+Quebec,QC,20220108,3,3,3,,1
+Quebec,QC,20220109,3,3,3,,1
+Quebec,QC,20220110,3,3,3,,1
+Quebec,QC,20220111,3,3,3,,1
+Quebec,QC,20220112,3,3,3,,1
+Quebec,QC,20220113,3,3,3,,1
+Quebec,QC,20220114,3,3,3,,1
+Quebec,QC,20220115,3,3,3,,1
+Quebec,QC,20220116,3,3,3,,1
+Quebec,QC,20220117,1,3,3,,1
+Quebec,QC,20220118,1,3,3,,1
+Quebec,QC,20220119,1,3,3,,1
+Quebec,QC,20220120,1,3,3,,1
+Quebec,QC,20220121,1,3,3,,1
+Quebec,QC,20220122,1,3,3,,1
+Quebec,QC,20220123,1,3,3,,1
+Quebec,QC,20220124,1,3,3,,1
+Quebec,QC,20220125,1,3,3,,1
+Quebec,QC,20220126,1,3,3,,1
+Quebec,QC,20220127,1,3,3,,1
+Quebec,QC,20220128,1,3,3,,1
+Quebec,QC,20220129,1,3,3,,1
+Quebec,QC,20220130,1,3,3,,1
+Quebec,QC,20220131,1,3,2,,1
 Saskatchewan,SK,20200101,0,0,0,,0
 Saskatchewan,SK,20200102,0,0,0,,0
 Saskatchewan,SK,20200103,0,0,0,,0
