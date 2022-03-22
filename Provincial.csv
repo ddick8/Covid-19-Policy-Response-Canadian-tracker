@@ -3650,79 +3650,170 @@ Northwest Territories,NT,20211004,3,2,2,,0
 Northwest Territories,NT,20211005,3,2,2,,0
 Northwest Territories,NT,20211006,3,2,2,,0
 Northwest Territories,NT,20211007,3,2,2,,0
-Northwest Territories,NT,20211008,3,3,3,,0
-Northwest Territories,NT,20211009,3,3,3,,0
-Northwest Territories,NT,20211010,3,3,3,,0
-Northwest Territories,NT,20211011,3,3,3,,0
-Northwest Territories,NT,20211012,3,3,3,,0
-Northwest Territories,NT,20211013,3,3,3,,0
-Northwest Territories,NT,20211014,3,3,3,,0
-Northwest Territories,NT,20211015,3,3,3,,0
-Northwest Territories,NT,20211016,3,3,3,,0
-Northwest Territories,NT,20211017,3,3,3,,0
-Northwest Territories,NT,20211018,3,3,3,,0
-Northwest Territories,NT,20211019,3,3,3,,0
-Northwest Territories,NT,20211020,3,3,3,,0
-Northwest Territories,NT,20211021,3,3,3,,0
-Northwest Territories,NT,20211022,3,3,3,,1
-Northwest Territories,NT,20211023,3,3,3,,1
-Northwest Territories,NT,20211024,3,3,3,,1
-Northwest Territories,NT,20211025,3,3,3,,1
-Northwest Territories,NT,20211026,3,3,3,,1
-Northwest Territories,NT,20211027,3,3,3,,1
-Northwest Territories,NT,20211028,3,3,3,,1
-Northwest Territories,NT,20211029,3,3,3,,1
-Northwest Territories,NT,20211030,3,3,3,,1
-Northwest Territories,NT,20211101,3,3,3,,1
-Northwest Territories,NT,20211102,3,3,3,,1
-Northwest Territories,NT,20211103,3,3,3,,1
-Northwest Territories,NT,20211104,3,3,3,,1
-Northwest Territories,NT,20211105,3,3,3,,1
-Northwest Territories,NT,20211106,3,3,3,,1
-Northwest Territories,NT,20211107,3,3,3,,1
-Northwest Territories,NT,20211108,3,3,3,,1
-Northwest Territories,NT,20211109,3,3,3,,1
-Northwest Territories,NT,20211110,3,3,3,,1
-Northwest Territories,NT,20211111,3,3,3,,1
-Northwest Territories,NT,20211112,3,3,3,,1
-Northwest Territories,NT,20211113,3,3,3,,1
-Northwest Territories,NT,20211114,3,3,3,,1
-Northwest Territories,NT,20211115,3,3,3,,1
-Northwest Territories,NT,20211116,3,3,3,,1
-Northwest Territories,NT,20211117,3,3,3,,1
-Northwest Territories,NT,20211118,3,3,3,,1
-Northwest Territories,NT,20211119,3,3,3,,1
-Northwest Territories,NT,20211120,3,3,3,,1
-Northwest Territories,NT,20211121,3,3,3,,1
-Northwest Territories,NT,20211122,3,3,3,,1
-Northwest Territories,NT,20211123,3,3,3,,1
-Northwest Territories,NT,20211124,3,3,3,,1
-Northwest Territories,NT,20211125,3,3,3,,1
-Northwest Territories,NT,20211126,3,3,3,,1
-Northwest Territories,NT,20211127,3,3,3,,1
-Northwest Territories,NT,20211128,3,3,3,,1
-Northwest Territories,NT,20211129,3,3,3,,1
-Northwest Territories,NT,20211130,3,3,3,,1
-Northwest Territories,NT,20211201,3,3,3,,1
-Northwest Territories,NT,20211202,3,3,3,,1
-Northwest Territories,NT,20211203,3,3,3,,1
-Northwest Territories,NT,20211204,3,3,3,,1
-Northwest Territories,NT,20211205,3,3,3,,1
-Northwest Territories,NT,20211206,3,3,3,,1
-Northwest Territories,NT,20211207,3,3,3,,1
-Northwest Territories,NT,20211208,3,3,3,,1
-Northwest Territories,NT,20211209,3,3,3,,1
-Northwest Territories,NT,20211210,3,3,3,,1
-Northwest Territories,NT,20211211,3,3,3,,1
-Northwest Territories,NT,20211212,3,3,3,,1
-Northwest Territories,NT,20211213,3,3,3,,1
-Northwest Territories,NT,20211214,3,3,3,,1
-Northwest Territories,NT,20211215,3,3,3,,1
-Northwest Territories,NT,20211216,3,3,3,,1
-Northwest Territories,NT,20211217,3,3,3,,1
-Northwest Territories,NT,20211218,3,3,3,,1
-Northwest Territories,NT,20211219,3,3,3,,1
-Northwest Territories,NT,20211220,3,3,3,,1
+Northwest Territories,NT,20211008,3,3,2,,0
+Northwest Territories,NT,20211009,3,3,2,,0
+Northwest Territories,NT,20211010,3,3,2,,0
+Northwest Territories,NT,20211011,3,3,2,,0
+Northwest Territories,NT,20211012,3,3,2,,0
+Northwest Territories,NT,20211013,3,3,2,,0
+Northwest Territories,NT,20211014,3,3,2,,0
+Northwest Territories,NT,20211015,3,3,2,,0
+Northwest Territories,NT,20211016,3,3,2,,0
+Northwest Territories,NT,20211017,3,3,2,,0
+Northwest Territories,NT,20211018,3,3,2,,0
+Northwest Territories,NT,20211019,3,3,2,,0
+Northwest Territories,NT,20211020,3,3,2,,0
+Northwest Territories,NT,20211021,3,3,2,,0
+Northwest Territories,NT,20211022,3,3,2,,1
+Northwest Territories,NT,20211023,3,3,2,,1
+Northwest Territories,NT,20211024,3,3,2,,1
+Northwest Territories,NT,20211025,3,3,2,,1
+Northwest Territories,NT,20211026,3,3,2,,1
+Northwest Territories,NT,20211027,3,3,2,,1
+Northwest Territories,NT,20211028,3,3,2,,1
+Northwest Territories,NT,20211029,3,3,2,,1
+Northwest Territories,NT,20211030,3,3,2,,1
+Northwest Territories,NT,20211101,3,3,2,,1
+Northwest Territories,NT,20211102,3,3,2,,1
+Northwest Territories,NT,20211103,3,3,2,,1
+Northwest Territories,NT,20211104,3,3,2,,1
+Northwest Territories,NT,20211105,3,3,2,,1
+Northwest Territories,NT,20211106,3,3,2,,1
+Northwest Territories,NT,20211107,3,3,2,,1
+Northwest Territories,NT,20211108,3,3,2,,1
+Northwest Territories,NT,20211109,3,3,2,,1
+Northwest Territories,NT,20211110,3,3,2,,1
+Northwest Territories,NT,20211111,3,3,2,,1
+Northwest Territories,NT,20211112,3,3,2,,1
+Northwest Territories,NT,20211113,3,3,2,,1
+Northwest Territories,NT,20211114,3,3,2,,1
+Northwest Territories,NT,20211115,3,3,2,,1
+Northwest Territories,NT,20211116,3,3,2,,1
+Northwest Territories,NT,20211117,3,3,2,,1
+Northwest Territories,NT,20211118,3,3,2,,1
+Northwest Territories,NT,20211119,3,3,2,,1
+Northwest Territories,NT,20211120,3,3,2,,1
+Northwest Territories,NT,20211121,3,3,2,,1
+Northwest Territories,NT,20211122,3,3,2,,1
+Northwest Territories,NT,20211123,3,3,2,,1
+Northwest Territories,NT,20211124,3,3,2,,1
+Northwest Territories,NT,20211125,3,3,2,,1
+Northwest Territories,NT,20211126,3,3,2,,1
+Northwest Territories,NT,20211127,3,3,2,,1
+Northwest Territories,NT,20211128,3,3,2,,1
+Northwest Territories,NT,20211129,3,3,2,,1
+Northwest Territories,NT,20211130,3,3,2,,1
+Northwest Territories,NT,20211201,3,3,2,,1
+Northwest Territories,NT,20211202,3,3,2,,1
+Northwest Territories,NT,20211203,3,3,2,,1
+Northwest Territories,NT,20211204,3,3,2,,1
+Northwest Territories,NT,20211205,3,3,2,,1
+Northwest Territories,NT,20211206,3,3,2,,1
+Northwest Territories,NT,20211207,3,3,2,,1
+Northwest Territories,NT,20211208,3,3,2,,1
+Northwest Territories,NT,20211209,3,3,2,,1
+Northwest Territories,NT,20211210,3,3,2,,1
+Northwest Territories,NT,20211211,3,3,2,,1
+Northwest Territories,NT,20211212,3,3,2,,1
+Northwest Territories,NT,20211213,3,3,2,,1
+Northwest Territories,NT,20211214,3,3,2,,1
+Northwest Territories,NT,20211215,3,3,2,,1
+Northwest Territories,NT,20211216,3,3,2,,1
+Northwest Territories,NT,20211217,3,3,2,,1
+Northwest Territories,NT,20211218,3,3,2,,1
+Northwest Territories,NT,20211219,3,3,2,,1
+Northwest Territories,NT,20211220,3,3,2,,1
+Northwest Territories,NT,20211221,3,3,2,,1
+Northwest Territories,NT,20211222,3,3,2,,1
+Northwest Territories,NT,20211223,3,3,2,,1
+Northwest Territories,NT,20211224,3,3,2,,1
+Northwest Territories,NT,20211225,3,3,2,,1
+Northwest Territories,NT,20211226,3,3,2,,1
+Northwest Territories,NT,20211227,3,3,2,,1
+Northwest Territories,NT,20211228,3,3,2,,1
+Northwest Territories,NT,20211229,3,3,2,,1
+Northwest Territories,NT,20211230,3,3,2,,1
+Northwest Territories,NT,20211231,3,3,2,,1
+Northwest Territories,NT,20220101,3,3,2,,1
+Northwest Territories,NT,20220102,3,3,2,,1
+Northwest Territories,NT,20220103,3,3,2,,1
+Northwest Territories,NT,20220104,3,3,2,,1
+Northwest Territories,NT,20220105,3,3,2,,1
+Northwest Territories,NT,20220106,3,3,2,,1
+Northwest Territories,NT,20220107,3,3,2,,1
+Northwest Territories,NT,20220108,3,3,2,,1
+Northwest Territories,NT,20220109,3,3,2,,1
+Northwest Territories,NT,20220110,3,3,2,,1
+Northwest Territories,NT,20220111,3,3,2,,1
+Northwest Territories,NT,20220112,3,3,2,,1
+Northwest Territories,NT,20220113,3,3,2,,1
+Northwest Territories,NT,20220114,3,3,2,,1
+Northwest Territories,NT,20220115,3,3,2,,1
+Northwest Territories,NT,20220116,3,3,2,,1
+Northwest Territories,NT,20220117,3,3,2,,1
+Northwest Territories,NT,20220118,3,3,2,,1
+Northwest Territories,NT,20220119,3,3,2,,1
+Northwest Territories,NT,20220120,3,3,2,,1
+Northwest Territories,NT,20220121,3,3,2,,1
+Northwest Territories,NT,20220122,3,3,2,,1
+Northwest Territories,NT,20220123,3,3,2,,1
+Northwest Territories,NT,20220124,1,3,2,,1
+Northwest Territories,NT,20220125,1,3,2,,1
+Northwest Territories,NT,20220126,1,3,2,,1
+Northwest Territories,NT,20220127,1,3,2,,1
+Northwest Territories,NT,20220128,1,3,2,,1
+Northwest Territories,NT,20220129,1,3,2,,1
+Northwest Territories,NT,20220130,1,2,2,,1
+Northwest Territories,NT,20220131,1,2,2,,1
+Northwest Territories,NT,20220201,1,2,2,,1
+Northwest Territories,NT,20220202,1,2,2,,1
+Northwest Territories,NT,20220203,1,2,2,,1
+Northwest Territories,NT,20220204,1,2,2,,1
+Northwest Territories,NT,20220205,1,2,2,,1
+Northwest Territories,NT,20220206,1,2,2,,1
+Northwest Territories,NT,20220207,1,2,2,,1
+Northwest Territories,NT,20220208,1,2,2,,1
+Northwest Territories,NT,20220209,1,2,2,,1
+Northwest Territories,NT,20220210,1,2,2,,1
+Northwest Territories,NT,20220211,1,2,2,,1
+Northwest Territories,NT,20220212,1,2,2,,1
+Northwest Territories,NT,20220213,1,2,2,,1
+Northwest Territories,NT,20220214,1,2,2,,1
+Northwest Territories,NT,20220215,1,2,2,,1
+Northwest Territories,NT,20220216,1,2,2,,1
+Northwest Territories,NT,20220217,1,2,2,,1
+Northwest Territories,NT,20220218,1,2,2,,1
+Northwest Territories,NT,20220219,1,2,2,,1
+Northwest Territories,NT,20220220,1,2,2,,1
+Northwest Territories,NT,20220221,1,2,2,,1
+Northwest Territories,NT,20220222,1,2,2,,1
+Northwest Territories,NT,20220223,1,2,2,,1
+Northwest Territories,NT,20220224,1,2,2,,1
+Northwest Territories,NT,20220225,1,2,2,,1
+Northwest Territories,NT,20220226,1,2,2,,1
+Northwest Territories,NT,20220227,1,2,2,,1
+Northwest Territories,NT,20220228,1,2,2,,1
+Northwest Territories,NT,20220301,1,2,2,,1
+Northwest Territories,NT,20220302,1,2,2,,1
+Northwest Territories,NT,20220303,1,2,2,,1
+Northwest Territories,NT,20220304,1,2,2,,1
+Northwest Territories,NT,20220305,1,2,2,,1
+Northwest Territories,NT,20220306,1,2,2,,1
+Northwest Territories,NT,20220307,1,2,2,,1
+Northwest Territories,NT,20220308,1,2,2,,1
+Northwest Territories,NT,20220309,1,2,2,,1
+Northwest Territories,NT,20220310,1,2,2,,1
+Northwest Territories,NT,20220311,1,2,2,,1
+Northwest Territories,NT,20220312,1,2,2,,1
+Northwest Territories,NT,20220313,1,2,2,,1
+Northwest Territories,NT,20220314,1,2,2,,1
+Northwest Territories,NT,20220315,1,2,2,,1
+Northwest Territories,NT,20220316,1,2,2,,1
+Northwest Territories,NT,20220317,1,2,2,,1
+Northwest Territories,NT,20220318,1,2,2,,1
+Northwest Territories,NT,20220319,1,2,2,,1
+Northwest Territories,NT,20220320,1,2,2,,1
+Northwest Territories,NT,20220321,1,2,2,,1
 Nunavut,NU,20200101,0,0,0,,0
 Nunavut,NU,20200102,0,0,0,,0
 Nunavut,NU,20200103,0,0,0,,0
@@ -7417,49 +7508,133 @@ Yukon,YT,20211104,2,1,1,,0
 Yukon,YT,20211105,2,1,1,,0
 Yukon,YT,20211106,2,1,1,,0
 Yukon,YT,20211107,2,1,1,,0
-Yukon,YT,20211108,2,2,1,,0
-Yukon,YT,20211109,2,2,1,,0
-Yukon,YT,20211110,2,2,1,,0
-Yukon,YT,20211111,2,2,1,,0
-Yukon,YT,20211112,2,2,1,,0
-Yukon,YT,20211113,2,2,1,,0
-Yukon,YT,20211114,2,2,1,,0
-Yukon,YT,20211115,2,2,1,,0
-Yukon,YT,20211116,2,2,1,,0
-Yukon,YT,20211117,2,2,1,,0
-Yukon,YT,20211118,2,2,1,,0
-Yukon,YT,20211119,2,2,1,,0
-Yukon,YT,20211120,2,2,1,,0
-Yukon,YT,20211121,2,2,1,,0
-Yukon,YT,20211122,2,2,1,,0
-Yukon,YT,20211123,2,2,1,,0
-Yukon,YT,20211124,2,2,1,,0
-Yukon,YT,20211125,2,2,1,,0
-Yukon,YT,20211126,2,2,1,,0
-Yukon,YT,20211127,2,2,1,,0
-Yukon,YT,20211128,2,2,1,,0
-Yukon,YT,20211129,2,2,1,,0
-Yukon,YT,20211130,2,2,1,,0
-Yukon,YT,20211201,2,2,1,,0
-Yukon,YT,20211202,2,2,1,,0
-Yukon,YT,20211203,2,2,1,,0
-Yukon,YT,20211204,2,2,1,,0
-Yukon,YT,20211205,2,2,1,,0
-Yukon,YT,20211206,2,2,1,,0
-Yukon,YT,20211207,2,2,1,,0
-Yukon,YT,20211208,2,2,1,,0
-Yukon,YT,20211209,2,2,1,,0
-Yukon,YT,20211210,2,2,1,,0
-Yukon,YT,20211211,2,2,1,,0
-Yukon,YT,20211212,2,2,1,,0
-Yukon,YT,20211213,2,2,1,,0
-Yukon,YT,20211214,2,2,1,,0
-Yukon,YT,20211215,2,2,1,,0
-Yukon,YT,20211216,2,2,1,,0
-Yukon,YT,20211217,2,2,1,,0
-Yukon,YT,20211218,2,2,1,,0
-Yukon,YT,20211219,2,2,1,,0
-Yukon,YT,20211220,2,2,1,,0
+Yukon,YT,20211108,2,2,1,,1
+Yukon,YT,20211109,2,2,1,,1
+Yukon,YT,20211110,2,2,1,,1
+Yukon,YT,20211111,2,2,1,,1
+Yukon,YT,20211112,2,2,1,,1
+Yukon,YT,20211113,2,2,1,,1
+Yukon,YT,20211114,2,2,1,,1
+Yukon,YT,20211115,2,2,1,,1
+Yukon,YT,20211116,2,2,1,,1
+Yukon,YT,20211117,2,2,1,,1
+Yukon,YT,20211118,2,2,1,,1
+Yukon,YT,20211119,2,2,1,,1
+Yukon,YT,20211120,2,2,1,,1
+Yukon,YT,20211121,2,2,1,,1
+Yukon,YT,20211122,2,2,1,,1
+Yukon,YT,20211123,2,2,1,,1
+Yukon,YT,20211124,2,2,1,,1
+Yukon,YT,20211125,2,2,1,,1
+Yukon,YT,20211126,2,2,1,,1
+Yukon,YT,20211127,2,2,1,,1
+Yukon,YT,20211128,2,2,1,,1
+Yukon,YT,20211129,2,2,1,,1
+Yukon,YT,20211130,2,2,1,,1
+Yukon,YT,20211201,2,2,1,,1
+Yukon,YT,20211202,2,2,1,,1
+Yukon,YT,20211203,2,2,1,,1
+Yukon,YT,20211204,2,2,1,,1
+Yukon,YT,20211205,2,2,1,,1
+Yukon,YT,20211206,2,2,1,,1
+Yukon,YT,20211207,2,2,1,,1
+Yukon,YT,20211208,2,2,1,,1
+Yukon,YT,20211209,2,2,1,,1
+Yukon,YT,20211210,2,2,1,,1
+Yukon,YT,20211211,2,2,1,,1
+Yukon,YT,20211212,2,2,1,,1
+Yukon,YT,20211213,2,2,1,,1
+Yukon,YT,20211214,2,2,1,,1
+Yukon,YT,20211215,2,2,1,,1
+Yukon,YT,20211216,2,2,1,,1
+Yukon,YT,20211217,2,2,1,,1
+Yukon,YT,20211218,2,2,1,,1
+Yukon,YT,20211219,2,2,1,,1
+Yukon,YT,20211220,3,2,1,,1
+Yukon,YT,20211221,3,2,1,,1
+Yukon,YT,20211222,3,2,1,,1
+Yukon,YT,20211223,3,2,1,,1
+Yukon,YT,20211224,3,2,1,,1
+Yukon,YT,20211225,3,2,1,,1
+Yukon,YT,20211226,3,2,1,,1
+Yukon,YT,20211227,3,2,1,,1
+Yukon,YT,20211228,3,2,1,,1
+Yukon,YT,20211229,3,2,1,,1
+Yukon,YT,20211230,3,2,1,,1
+Yukon,YT,20211231,3,2,1,,1
+Yukon,YT,20220101,3,2,1,,1
+Yukon,YT,20220102,3,2,1,,1
+Yukon,YT,20220103,3,2,1,,1
+Yukon,YT,20220104,1,2,1,,1
+Yukon,YT,20220105,1,2,1,,1
+Yukon,YT,20220106,1,2,1,,1
+Yukon,YT,20220107,1,2,1,,1
+Yukon,YT,20220108,1,2,1,,1
+Yukon,YT,20220109,1,2,1,,1
+Yukon,YT,20220110,1,2,1,,1
+Yukon,YT,20220111,1,2,1,,1
+Yukon,YT,20220112,1,2,1,,1
+Yukon,YT,20220113,1,2,1,,1
+Yukon,YT,20220114,1,2,1,,1
+Yukon,YT,20220115,1,2,1,,1
+Yukon,YT,20220116,1,2,1,,1
+Yukon,YT,20220117,1,2,1,,1
+Yukon,YT,20220118,1,3,1,,1
+Yukon,YT,20220119,1,3,1,,1
+Yukon,YT,20220120,1,3,1,,1
+Yukon,YT,20220121,1,3,1,,1
+Yukon,YT,20220122,1,3,1,,1
+Yukon,YT,20220123,1,3,1,,1
+Yukon,YT,20220124,1,3,1,,1
+Yukon,YT,20220125,1,3,1,,1
+Yukon,YT,20220126,1,3,1,,1
+Yukon,YT,20220127,1,3,1,,1
+Yukon,YT,20220128,1,3,1,,1
+Yukon,YT,20220129,1,3,1,,1
+Yukon,YT,20220130,1,3,1,,1
+Yukon,YT,20220131,1,3,1,,1
+Yukon,YT,20220201,1,3,1,,1
+Yukon,YT,20220202,1,3,1,,1
+Yukon,YT,20220203,1,3,1,,1
+Yukon,YT,20220204,1,3,1,,1
+Yukon,YT,20220205,1,3,1,,1
+Yukon,YT,20220206,1,3,1,,1
+Yukon,YT,20220207,1,3,1,,1
+Yukon,YT,20220208,1,3,1,,1
+Yukon,YT,20220209,1,3,1,,1
+Yukon,YT,20220210,1,3,1,,1
+Yukon,YT,20220211,1,3,1,,1
+Yukon,YT,20220212,1,3,1,,1
+Yukon,YT,20220213,1,3,1,,1
+Yukon,YT,20220214,1,3,1,,1
+Yukon,YT,20220215,1,3,1,,1
+Yukon,YT,20220216,1,3,1,,1
+Yukon,YT,20220217,1,3,1,,1
+Yukon,YT,20220218,1,3,1,,1
+Yukon,YT,20220219,1,3,1,,1
+Yukon,YT,20220220,1,3,1,,1
+Yukon,YT,20220221,1,3,1,,1
+Yukon,YT,20220222,1,3,1,,1
+Yukon,YT,20220223,1,3,1,,1
+Yukon,YT,20220224,1,3,1,,1
+Yukon,YT,20220225,1,3,1,,1
+Yukon,YT,20220226,1,3,1,,1
+Yukon,YT,20220227,1,3,1,,1
+Yukon,YT,20220228,1,3,1,,1
+Yukon,YT,20220301,1,3,1,,1
+Yukon,YT,20220302,1,3,1,,1
+Yukon,YT,20220303,1,3,1,,1
+Yukon,YT,20220304,1,0,1,,1
+Yukon,YT,20220305,1,0,1,,1
+Yukon,YT,20220306,1,0,1,,1
+Yukon,YT,20220307,1,0,1,,1
+Yukon,YT,20220308,1,0,1,,1
+Yukon,YT,20220309,1,0,1,,1
+Yukon,YT,20220310,1,0,1,,1
+Yukon,YT,20220311,1,0,1,,1
+Yukon,YT,20220312,1,0,1,,1
+Yukon,YT,20220313,1,0,1,,1
+Yukon,YT,20220314,1,0,1,,1
 Canada,CA,20200101,0,0,0,,0
 Canada,CA,20200102,0,0,0,,0
 Canada,CA,20200103,0,0,0,,0
