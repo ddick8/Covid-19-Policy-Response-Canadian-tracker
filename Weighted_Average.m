@@ -74,104 +74,47 @@ populationList = {T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13,T14};
 nameList={'Newfoundland', 'Prince_Edward_Island', 'Nova_Scotia','New_Brunswick','Quebec','Ontario','Manitoba','Saskatchewan','Alberta','British_Columbia','Yukon','Northwest_Territories','Nunavut', 'Atlantic_Bubble'};
 
 Canada_Deg = 0 ;
+
 Atlantic_Bubble_Deg = 0; 
-%To calculate C1 degrees for Atlantic Bubble : 
-%Define a variable for length. 
 
-for j = 1:length(ResDeg.('Prince_Edward_Island')(:,1))
-  Sum = 0;
+l = length(ResDeg.('Prince_Edward_Island')(:,1));
+
+%To calculate C1, C3, C2 degrees for Atlantic Bubble : 
+
+for w = 2:4
+  for j = 1:l
+    Sum = 0;
   
-    for i = 1:4
+      for i = 1:4
       
-      Result = ResDeg.(nameList{i})(j,2).*populationList{i};
-      Sum = Sum + Result;
-   end %this for loop is taking each province as i proceeds and calculates the product of C1 by its population. 
+        Result = ResDeg.(nameList{i})(j,w).*populationList{i};
+        Sum = Sum + Result;
+      end %this for loop is taking each province as i proceeds and calculates the product of C1 by its population. 
  
- Atlantic_Bubble_Deg = round(Sum/T14);
- ResDeg.('Atlantic_Bubble')(j,2) =  array2table(Atlantic_Bubble_Deg);
-
-
+  Atlantic_Bubble_Deg = round(Sum/T14);
+  ResDeg.('Atlantic_Bubble')(j,w) =  array2table(Atlantic_Bubble_Deg);
+   
+  end 
 end 
 
-%To calculate C3 degrees for Atlantic Bubble: 
-for j = 1:length(ResDeg.('Prince_Edward_Island')(:,1))
-  Sum = 0;
-  
-    for i = 1:4
-      
-      Result = ResDeg.(nameList{i})(j,3).*populationList{i};
-      Sum = Sum + Result;
-   end %this for loop is taking each province as i proceeds and calculates the product of C1 by its population. 
- 
- Atlantic_Bubble_Deg = round(Sum/T14);
- ResDeg.('Atlantic_Bubble')(j,3) =  array2table(Atlantic_Bubble_Deg);
-
-
-end 
-%To calculate C2 degrees for Atlantic Bubble: 
-for j = 1:length(ResDeg.('Prince_Edward_Island')(:,1))
-  Sum = 0;
-  
-    for i = 1:4
-      
-      Result = ResDeg.(nameList{i})(j,4).*populationList{i};
-      Sum = Sum + Result;
-   end %this for loop is taking each province as i proceeds and calculates the product of C1 by its population. 
- 
- Atlantic_Bubble_Deg = round(Sum/T14);
- ResDeg.('Atlantic_Bubble')(j,4) =  array2table(Atlantic_Bubble_Deg);
-
-
-end 
 
 %Converting the data type : 
 ResDeg.('Atlantic_Bubble') = table2array(ResDeg.('Atlantic_Bubble'));
 
-% To calculate C1 scores for Canada: 
-for j = 1:length(ResDeg.('Prince_Edward_Island')(:,1))
- Sum = 0;
+% To calculate C1,C3,C2 scores for Canada: 
+for w = 2:4
+  for j = 1:l
+    Sum = 0;
   
-    for i = 1:14
+      for i = 1:14
       
-      Result = ResDeg.(nameList{i})(j,2).*populationList{i};
-      Sum=Sum + Result;
-   end %this for loop is taking each province as i proceeds and calculates the product of C1 by its population. 
+        Result = ResDeg.(nameList{i})(j,w).*populationList{i};
+        Sum=Sum + Result;
+      end %this for loop is taking each province as i proceeds and calculates the product of C1 by its population. 
  
- Canada_Deg = round(Sum/T15);
- ResDeg.('Canada')(j,2) = array2table(Canada_Deg);
-
-
-end 
-
-% To calculate C3 scores for Canada: 
-for j = 1:length(ResDeg.('Prince_Edward_Island')(:,1))
- Sum = 0;
-  
-    for i = 1:14
-      
-      Result = ResDeg.(nameList{i})(j,3).*populationList{i};
-      Sum=Sum + Result;
-   end %this for loop is taking degree of C3 for each province as i proceeds and multiplies it by the province/territory's population. 
- 
- Canada_Deg = round(Sum/T15);
-  ResDeg.('Canada')(j,3) = array2table(Canada_Deg);
-
-
-end 
-
-% To calculate C2 scores for Canada: 
-for j = 1:length(ResDeg.('Prince_Edward_Island')(:,1))
- Sum = 0;
-  
-    for i = 1:14
-      
-      Result = ResDeg.(nameList{i})(j,4).*populationList{i};
-      Sum=Sum + Result;
-   end %this for loop is taking degree of C3 for each province as i proceeds and multiplies it by the province/territory's population. 
- 
- Canada_Deg = round(Sum/T15);
- ResDeg.('Canada')(j,4) = array2table(Canada_Deg);
-
+   Canada_Deg = round(Sum/T15);
+   ResDeg.('Canada')(j,w) = array2table(Canada_Deg);
+  end 
 
 end 
 
