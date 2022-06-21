@@ -1,5 +1,6 @@
-PopulationExcelName = fullfile('/Users/apple/Downloads/Covid-ASIIM/data/populations.csv');
-DegreeFile = fullfile('/Users/apple/Documents/GitHub/CovidPolicy-Canada/Provincial.csv');
+PopulationExcelName = fullfile(pwd,'/data/populations.csv');
+DegreeFile = fullfile(pwd,'/Provincial.csv');
+
 
 
 populationSize =readtable(PopulationExcelName,...
