@@ -1,3 +1,4 @@
+clear
 %Load Data 
 
 PopulationExcelName = fullfile(pwd,'/data/populations.csv');
@@ -11,28 +12,33 @@ population = readtable(PopulationExcelName,...
 populationSize = table2array(population(1:end,2:end));
 
 %read all data
-rawData = readcell(DegreeFile);
+rawData = readtable(DegreeFile);
 
 %create names cell vector
 %Using region codes to avoid spaces
-names = rawData(2:end,2);
+names = table2array(rawData(1:end,2));
 
 %create restriction and date matrix
-resMat = cell2mat(rawData(2:end,3:6));
+resMat = rawData(1:end,3:6);
 
 %find prov names
 %option stable avoids sorting the data
 nameList = unique(names,'stable');
 
+
 %Create resDeg data structure
 %strcmpi(names,nameList{i}) creates a logic array
-len = length(nameList);
+len = size(nameList);
 for i = 1:len
-   resDeg.(nameList{i})=resMat(strcmpi(names,nameList{i}),:);
+   resDeg.(nameList{i})=table2array(resMat(strcmpi(names,nameList{i}),:));
+   %select the data for a specific starting and ending date: 
+   resDeg.(nameList{i}) = resDeg.(nameList{i})(resDeg.(nameList{i})(:,1) >= 20220401 & resDeg.(nameList{i})(:,1) <= 20220530,:);
 end
 
+
+
 L_ALB = length(resDeg.ALB);
-resDeg.(nameList{14})(:,2:4) = zeros(L_ALB,3);
+%resDeg.(nameList{14})(:,2:4) = zeros(L_ALB,3);
 
 
 %To calculate C1, C3, C2 degrees for Atlantic Bubble : 
@@ -55,6 +61,7 @@ for w = 2:4
   end %this loop goes through all the rows of the same column. 
 end % this loop goes through all three columns. 
 
+
 CA_pop = populationSize(15,17);
 
 % To calculate C1,C3,C2 scores for Canada: 
@@ -73,3 +80,5 @@ for w = 2:4
   end 
 
 end 
+
+
