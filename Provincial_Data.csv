@@ -1731,7 +1731,34 @@ Prince Edward Island,PE,20220501,1,1,1,,0
 Prince Edward Island,PE,20220502,1,1,1,,0
 Prince Edward Island,PE,20220503,1,1,1,,0
 Prince Edward Island,PE,20220504,1,1,1,,0
+Prince Edward Island,PE,20220505,1,1,1,,0
+Prince Edward Island,PE,20220506,1,1,0,,0
+Prince Edward Island,PE,20220507,1,1,0,,0
+Prince Edward Island,PE,20220508,1,1,0,,0
+Prince Edward Island,PE,20220509,1,1,0,,0
+Prince Edward Island,PE,20220510,1,1,0,,0
+Prince Edward Island,PE,20220511,1,1,0,,0
+Prince Edward Island,PE,20220512,1,1,0,,0
+Prince Edward Island,PE,20220513,1,1,0,,0
+Prince Edward Island,PE,20220514,1,1,0,,0
+Prince Edward Island,PE,20220515,1,1,0,,0
+Prince Edward Island,PE,20220516,1,1,0,,0
+Prince Edward Island,PE,20220517,1,1,0,,0
+Prince Edward Island,PE,20220518,1,1,0,,0
+Prince Edward Island,PE,20220519,1,1,0,,0
+Prince Edward Island,PE,20220520,1,1,0,,0
+Prince Edward Island,PE,20220521,1,1,0,,0
+Prince Edward Island,PE,20220522,1,1,0,,0
+Prince Edward Island,PE,20220523,1,1,0,,0
+Prince Edward Island,PE,20220524,1,1,0,,0
+Prince Edward Island,PE,20220525,0,1,0,,0
+Prince Edward Island,PE,20220526,0,1,0,,0
+Prince Edward Island,PE,20220527,0,1,0,,0
+Prince Edward Island,PE,20220528,0,1,0,,0
+Prince Edward Island,PE,20220529,0,1,0,,0
+Prince Edward Island,PE,20220530,0,1,0,,0
 Nova Scotia,NS,20200101,0,0,0,,0
+Nova Scotia,NS,20200102,0,0,0,,0
 Nova Scotia,NS,20200103,0,0,0,,0
 Nova Scotia,NS,20200104,0,0,0,,0
 Nova Scotia,NS,20200105,0,0,0,,0
@@ -5247,6 +5274,72 @@ Ontario,ON,20220527,0,1,0,,0
 Ontario,ON,20220528,0,1,0,,0
 Ontario,ON,20220529,0,1,0,,0
 Ontario,ON,20220530,0,1,0,,0
+Manitoba,MB,20200101,0,0,0,,0
+Manitoba,MB,20200102,0,0,0,,0
+Manitoba,MB,20200103,0,0,0,,0
+Manitoba,MB,20200104,0,0,0,,0
+Manitoba,MB,20200105,0,0,0,,0
+Manitoba,MB,20200106,0,0,0,,0
+Manitoba,MB,20200107,0,0,0,,0
+Manitoba,MB,20200108,0,0,0,,0
+Manitoba,MB,20200109,0,0,0,,0
+Manitoba,MB,20200110,0,0,0,,0
+Manitoba,MB,20200111,0,0,0,,0
+Manitoba,MB,20200112,0,0,0,,0
+Manitoba,MB,20200113,0,0,0,,0
+Manitoba,MB,20200114,0,0,0,,0
+Manitoba,MB,20200115,0,0,0,,0
+Manitoba,MB,20200116,0,0,0,,0
+Manitoba,MB,20200117,0,0,0,,0
+Manitoba,MB,20200118,0,0,0,,0
+Manitoba,MB,20200119,0,0,0,,0
+Manitoba,MB,20200120,0,0,0,,0
+Manitoba,MB,20200121,0,0,0,,0
+Manitoba,MB,20200122,0,0,0,,0
+Manitoba,MB,20200123,0,0,0,,0
+Manitoba,MB,20200124,0,0,0,,0
+Manitoba,MB,20200125,0,0,0,,0
+Manitoba,MB,20200126,0,0,0,,0
+Manitoba,MB,20200127,0,0,0,,0
+Manitoba,MB,20200128,0,0,0,,0
+Manitoba,MB,20200129,0,0,0,,0
+Manitoba,MB,20200130,0,0,0,,0
+Manitoba,MB,20200131,0,0,0,,0
+Manitoba,MB,20200201,0,0,0,,0
+Manitoba,MB,20200202,0,0,0,,0
+Manitoba,MB,20200203,0,0,0,,0
+Manitoba,MB,20200204,0,0,0,,0
+Manitoba,MB,20200205,0,0,0,,0
+Manitoba,MB,20200206,0,0,0,,0
+Manitoba,MB,20200207,0,0,0,,0
+Manitoba,MB,20200208,0,0,0,,0
+Manitoba,MB,20200209,0,0,0,,0
+Manitoba,MB,20200210,0,0,0,,0
+Manitoba,MB,20200211,0,0,0,,0
+Manitoba,MB,20200212,0,0,0,,0
+Manitoba,MB,20200213,0,0,0,,0
+Manitoba,MB,20200214,0,0,0,,0
+Manitoba,MB,20200215,0,0,0,,0
+Manitoba,MB,20200216,0,0,0,,0
+Manitoba,MB,20200217,0,0,0,,0
+Manitoba,MB,20200218,0,0,0,,0
+Manitoba,MB,20200219,0,0,0,,0
+Manitoba,MB,20200220,0,0,0,,0
+Manitoba,MB,20200221,0,0,0,,0
+Manitoba,MB,20200222,0,0,0,,0
+Manitoba,MB,20200223,0,0,0,,0
+Manitoba,MB,20200224,0,0,0,,0
+Manitoba,MB,20200225,0,0,0,,0
+Manitoba,MB,20200226,0,0,0,,0
+Manitoba,MB,20200227,0,0,0,,0
+Manitoba,MB,20200228,0,0,0,,0
+Manitoba,MB,20200229,0,0,0,,0
+Manitoba,MB,20200301,0,0,0,,0
+Manitoba,MB,20200302,0,0,0,,0
+Manitoba,MB,20200303,0,0,0,,0
+Manitoba,MB,20200304,0,0,0,,0
+Manitoba,MB,20200305,0,0,0,,0
+Manitoba,MB,20200306,0,0,0,,0
 Manitoba,MB,20200307,0,0,0,,0
 Manitoba,MB,20200308,0,0,0,,0
 Manitoba,MB,20200309,0,0,0,,0
@@ -9606,6 +9699,15 @@ Yukon,YT,20220527,0,1,0,,0
 Yukon,YT,20220528,0,1,0,,0
 Yukon,YT,20220529,0,1,0,,0
 Yukon,YT,20220530,0,1,0,,0
+Northwest Territories,NT,20200101,0,0,0,,0
+Northwest Territories,NT,20200102,0,0,0,,0
+Northwest Territories,NT,20200103,0,0,0,,0
+Northwest Territories,NT,20200104,0,0,0,,0
+Northwest Territories,NT,20200105,0,0,0,,0
+Northwest Territories,NT,20200106,0,0,0,,0
+Northwest Territories,NT,20200107,0,0,0,,0
+Northwest Territories,NT,20200108,0,0,0,,0
+Northwest Territories,NT,20200109,0,0,0,,0
 Northwest Territories,NT,20200110,0,0,0,,0
 Northwest Territories,NT,20200111,0,0,0,,0
 Northwest Territories,NT,20200112,0,0,0,,0
@@ -10476,6 +10578,36 @@ Northwest Territories,NT,20220527,0,1,0,,0
 Northwest Territories,NT,20220528,0,1,0,,0
 Northwest Territories,NT,20220529,0,1,0,,0
 Northwest Territories,NT,20220530,0,1,0,,0
+Nunavut,NU,20200101,0,0,0,,0
+Nunavut,NU,20200102,0,0,0,,0
+Nunavut,NU,20200103,0,0,0,,0
+Nunavut,NU,20200104,0,0,0,,0
+Nunavut,NU,20200105,0,0,0,,0
+Nunavut,NU,20200106,0,0,0,,0
+Nunavut,NU,20200107,0,0,0,,0
+Nunavut,NU,20200108,0,0,0,,0
+Nunavut,NU,20200109,0,0,0,,0
+Nunavut,NU,20200110,0,0,0,,0
+Nunavut,NU,20200111,0,0,0,,0
+Nunavut,NU,20200112,0,0,0,,0
+Nunavut,NU,20200113,0,0,0,,0
+Nunavut,NU,20200114,0,0,0,,0
+Nunavut,NU,20200115,0,0,0,,0
+Nunavut,NU,20200116,0,0,0,,0
+Nunavut,NU,20200117,0,0,0,,0
+Nunavut,NU,20200118,0,0,0,,0
+Nunavut,NU,20200119,0,0,0,,0
+Nunavut,NU,20200120,0,0,0,,0
+Nunavut,NU,20200121,0,0,0,,0
+Nunavut,NU,20200122,0,0,0,,0
+Nunavut,NU,20200123,0,0,0,,0
+Nunavut,NU,20200124,0,0,0,,0
+Nunavut,NU,20200125,0,0,0,,0
+Nunavut,NU,20200126,0,0,0,,0
+Nunavut,NU,20200127,0,0,0,,0
+Nunavut,NU,20200128,0,0,0,,0
+Nunavut,NU,20200129,0,0,0,,0
+Nunavut,NU,20200130,0,0,0,,0
 Nunavut,NU,20200131,0,0,0,,0
 Nunavut,NU,20200201,0,0,0,,0
 Nunavut,NU,20200202,0,0,0,,0
@@ -11325,6 +11457,31 @@ Nunavut,NU,20220527,0,1,0,,0
 Nunavut,NU,20220528,0,1,0,,0
 Nunavut,NU,20220529,0,1,0,,0
 Nunavut,NU,20220530,0,1,0,,0
+Atlantic Bubble,ALB,20200101,0,0,0,,
+Atlantic Bubble,ALB,20200102,0,0,0,,
+Atlantic Bubble,ALB,20200103,0,0,0,,
+Atlantic Bubble,ALB,20200104,0,0,0,,
+Atlantic Bubble,ALB,20200105,0,0,0,,
+Atlantic Bubble,ALB,20200106,0,0,0,,
+Atlantic Bubble,ALB,20200107,0,0,0,,
+Atlantic Bubble,ALB,20200108,0,0,0,,
+Atlantic Bubble,ALB,20200109,0,0,0,,
+Atlantic Bubble,ALB,20200110,0,0,0,,
+Atlantic Bubble,ALB,20200111,0,0,0,,
+Atlantic Bubble,ALB,20200112,0,0,0,,
+Atlantic Bubble,ALB,20200113,0,0,0,,
+Atlantic Bubble,ALB,20200114,0,0,0,,
+Atlantic Bubble,ALB,20200115,0,0,0,,
+Atlantic Bubble,ALB,20200116,0,0,0,,
+Atlantic Bubble,ALB,20200117,0,0,0,,
+Atlantic Bubble,ALB,20200118,0,0,0,,
+Atlantic Bubble,ALB,20200119,0,0,0,,
+Atlantic Bubble,ALB,20200120,0,0,0,,
+Atlantic Bubble,ALB,20200121,0,0,0,,
+Atlantic Bubble,ALB,20200122,0,0,0,,
+Atlantic Bubble,ALB,20200123,0,0,0,,
+Atlantic Bubble,ALB,20200124,0,0,0,,
+Atlantic Bubble,ALB,20200125,0,0,0,,
 Atlantic Bubble,ALB,20200126,0,0,0,,
 Atlantic Bubble,ALB,20200127,0,0,0,,
 Atlantic Bubble,ALB,20200128,0,0,0,,
