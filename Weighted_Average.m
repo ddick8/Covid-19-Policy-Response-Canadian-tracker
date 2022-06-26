@@ -1,4 +1,5 @@
 clear
+
 %Load Data 
 
 PopulationExcelName = fullfile(pwd,'/data/populations.csv');
@@ -32,7 +33,7 @@ len = size(nameList);
 for i = 1:len
    resDeg.(nameList{i})=table2array(resMat(strcmpi(names,nameList{i}),:));
    %select the data for a specific starting and ending date: 
-   resDeg.(nameList{i}) = resDeg.(nameList{i})(resDeg.(nameList{i})(:,1) >= 20220401 & resDeg.(nameList{i})(:,1) <= 20220530,:);
+   resDeg.(nameList{i}) = resDeg.(nameList{i})(resDeg.(nameList{i})(:,1) >= 20200101 & resDeg.(nameList{i})(:,1) <= 20220530,:);
 end
 
 

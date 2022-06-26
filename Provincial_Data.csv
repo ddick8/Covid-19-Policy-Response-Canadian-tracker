@@ -668,6 +668,7 @@ Newfoundland and Labrador,NL,20211027,1,2,1,,1
 Newfoundland and Labrador,NL,20211028,1,2,1,,1
 Newfoundland and Labrador,NL,20211029,1,2,1,,1
 Newfoundland and Labrador,NL,20211030,1,2,1,,1
+Newfoundland and Labrador,NL,20211031,1,2,1,,1
 Newfoundland and Labrador,NL,20211101,1,2,1,,1
 Newfoundland and Labrador,NL,20211102,1,2,1,,1
 Newfoundland and Labrador,NL,20211103,1,2,1,,1
@@ -1547,6 +1548,7 @@ Prince Edward Island,PE,20211027,1,2,1,,1
 Prince Edward Island,PE,20211028,1,2,1,,1
 Prince Edward Island,PE,20211029,1,2,1,,1
 Prince Edward Island,PE,20211030,1,2,1,,1
+Prince Edward Island,PE,20211031,1,2,1,,1
 Prince Edward Island,PE,20211101,1,2,1,,1
 Prince Edward Island,PE,20211102,1,2,1,,1
 Prince Edward Island,PE,20211103,1,2,1,,1
@@ -2426,6 +2428,7 @@ Nova Scotia,NS,20211027,1,1,1,,1
 Nova Scotia,NS,20211028,1,1,1,,1
 Nova Scotia,NS,20211029,1,1,1,,1
 Nova Scotia,NS,20211030,1,1,1,,1
+Nova Scotia,NS,20211031,1,1,1,,1
 Nova Scotia,NS,20211101,1,1,1,,1
 Nova Scotia,NS,20211102,1,1,1,,1
 Nova Scotia,NS,20211103,1,1,1,,1
@@ -3305,6 +3308,7 @@ New Brunswick,NB,20211027,1,3,1,,1
 New Brunswick,NB,20211028,1,3,1,,1
 New Brunswick,NB,20211029,1,3,1,,1
 New Brunswick,NB,20211030,1,3,1,,1
+New Brunswick,NB,20211031,1,3,1,,1
 New Brunswick,NB,20211101,1,3,1,,1
 New Brunswick,NB,20211102,1,3,1,,1
 New Brunswick,NB,20211103,1,3,1,,1
@@ -5064,6 +5068,7 @@ Ontario,ON,20211027,1,2,1,,1
 Ontario,ON,20211028,1,2,1,,1
 Ontario,ON,20211029,1,2,1,,1
 Ontario,ON,20211030,1,2,1,,1
+Ontario,ON,20211031,1,2,1,,1
 Ontario,ON,20211101,1,2,1,,1
 Ontario,ON,20211102,1,2,1,,1
 Ontario,ON,20211103,1,2,1,,1
@@ -5943,6 +5948,7 @@ Manitoba,MB,20211027,1,1,1,,1
 Manitoba,MB,20211028,1,1,1,,1
 Manitoba,MB,20211029,1,1,1,,1
 Manitoba,MB,20211030,1,1,1,,1
+Manitoba,MB,20211031,1,1,1,,1
 Manitoba,MB,20211101,1,1,1,,1
 Manitoba,MB,20211102,1,1,1,,1
 Manitoba,MB,20211103,1,1,1,,1
@@ -6822,6 +6828,7 @@ Saskatchewan,SK,20211027,1,1,1,,1
 Saskatchewan,SK,20211028,1,1,1,,1
 Saskatchewan,SK,20211029,1,1,1,,1
 Saskatchewan,SK,20211030,1,1,1,,1
+Saskatchewan,SK,20211031,1,1,1,,1
 Saskatchewan,SK,20211101,1,1,1,,1
 Saskatchewan,SK,20211102,1,1,1,,1
 Saskatchewan,SK,20211103,1,1,1,,1
@@ -6882,36 +6889,6 @@ Saskatchewan,SK,20211227,1,1,1,,1
 Saskatchewan,SK,20211228,1,1,1,,1
 Saskatchewan,SK,20211229,1,1,1,,1
 Saskatchewan,SK,20211230,1,1,1,,1
-Saskatchewan,SK,20211201,1,1,1,,1
-Saskatchewan,SK,20211202,1,1,1,,1
-Saskatchewan,SK,20211203,1,1,1,,1
-Saskatchewan,SK,20211204,1,1,1,,1
-Saskatchewan,SK,20211205,1,1,1,,1
-Saskatchewan,SK,20211206,1,1,1,,1
-Saskatchewan,SK,20211207,1,1,1,,1
-Saskatchewan,SK,20211208,1,1,1,,1
-Saskatchewan,SK,20211209,1,1,1,,1
-Saskatchewan,SK,20211210,1,1,1,,1
-Saskatchewan,SK,20211211,1,1,1,,1
-Saskatchewan,SK,20211212,1,1,1,,1
-Saskatchewan,SK,20211213,1,1,1,,1
-Saskatchewan,SK,20211214,1,1,1,,0
-Saskatchewan,SK,20211215,1,1,1,,0
-Saskatchewan,SK,20211216,1,1,1,,0
-Saskatchewan,SK,20211217,1,1,1,,0
-Saskatchewan,SK,20211218,1,1,1,,0
-Saskatchewan,SK,20211219,1,1,1,,0
-Saskatchewan,SK,20211220,1,1,1,,0
-Saskatchewan,SK,20211221,1,1,1,,0
-Saskatchewan,SK,20211222,1,1,1,,0
-Saskatchewan,SK,20211223,1,1,1,,0
-Saskatchewan,SK,20211224,1,1,1,,0
-Saskatchewan,SK,20211225,1,1,1,,0
-Saskatchewan,SK,20211226,1,1,1,,0
-Saskatchewan,SK,20211227,1,1,1,,0
-Saskatchewan,SK,20211228,1,1,1,,0
-Saskatchewan,SK,20211229,1,1,1,,0
-Saskatchewan,SK,20211230,1,1,1,,0
 Saskatchewan,SK,20211231,1,1,1,,0
 Saskatchewan,SK,20220101,1,1,1,,0
 Saskatchewan,SK,20220102,1,1,1,,0
@@ -7731,6 +7708,7 @@ Alberta,AB,20211027,1,3,1,,1
 Alberta,AB,20211028,1,3,1,,1
 Alberta,AB,20211029,1,3,1,,1
 Alberta,AB,20211030,1,3,1,,1
+Alberta,AB,20211031,1,3,1,,1
 Alberta,AB,20211101,1,3,1,,1
 Alberta,AB,20211102,1,3,1,,1
 Alberta,AB,20211103,1,3,1,,1
@@ -8610,6 +8588,7 @@ British Columbia,BC,20211027,1,2,1,,1
 British Columbia,BC,20211028,1,2,1,,1
 British Columbia,BC,20211029,1,2,1,,1
 British Columbia,BC,20211030,1,2,1,,1
+British Columbia,BC,20211031,1,2,1,,1
 British Columbia,BC,20211101,1,2,1,,1
 British Columbia,BC,20211102,1,2,1,,1
 British Columbia,BC,20211103,1,2,1,,1
@@ -9489,6 +9468,7 @@ Yukon,YT,20211027,2,1,1,,0
 Yukon,YT,20211028,2,1,1,,0
 Yukon,YT,20211029,2,1,1,,0
 Yukon,YT,20211030,2,1,1,,0
+Yukon,YT,20211031,2,1,1,,0
 Yukon,YT,20211101,2,1,1,,0
 Yukon,YT,20211102,2,1,1,,0
 Yukon,YT,20211103,2,1,1,,0
@@ -10368,6 +10348,7 @@ Northwest Territories,NT,20211027,3,3,2,,1
 Northwest Territories,NT,20211028,3,3,2,,1
 Northwest Territories,NT,20211029,3,3,2,,1
 Northwest Territories,NT,20211030,3,3,2,,1
+Northwest Territories,NT,20211031,3,3,2,,1
 Northwest Territories,NT,20211101,3,3,2,,1
 Northwest Territories,NT,20211102,3,3,2,,1
 Northwest Territories,NT,20211103,3,3,2,,1
@@ -11247,6 +11228,7 @@ Nunavut,NU,20211027,2,1,1,,0
 Nunavut,NU,20211028,2,1,1,,0
 Nunavut,NU,20211029,2,1,1,,0
 Nunavut,NU,20211030,2,1,1,,0
+Nunavut,NU,20211031,2,1,1,,0
 Nunavut,NU,20211101,2,1,1,,0
 Nunavut,NU,20211102,2,1,1,,0
 Nunavut,NU,20211103,2,1,1,,0
@@ -12126,6 +12108,7 @@ Atlantic Bubble,ALB,20211027,1,2,1,,
 Atlantic Bubble,ALB,20211028,1,2,1,,
 Atlantic Bubble,ALB,20211029,1,2,1,,
 Atlantic Bubble,ALB,20211030,1,2,1,,
+Atlantic Bubble,ALB,20211031,1,2,1,,
 Atlantic Bubble,ALB,20211101,1,2,1,,
 Atlantic Bubble,ALB,20211102,1,2,1,,
 Atlantic Bubble,ALB,20211103,1,2,1,,
@@ -12974,6 +12957,7 @@ Canada,CA,20210927,1,2,1,,1
 Canada,CA,20210928,1,2,1,,1
 Canada,CA,20210929,1,2,1,,1
 Canada,CA,20210930,1,2,1,,1
+Canada,CA,20210931,1,2,1,,1
 Canada,CA,20211001,1,2,1,,1
 Canada,CA,20211002,1,2,1,,1
 Canada,CA,20211003,1,2,1,,1
