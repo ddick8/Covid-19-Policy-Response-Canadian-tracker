@@ -26,6 +26,9 @@ resMat = rawData(1:end,3:6);
 %option stable avoids sorting the data
 nameList = unique(names,'stable');
 
+%set the date for calculating the scores: 
+startDate = 20200101; 
+endDate = 20220530;
 
 %Create resDeg data structure
 %strcmpi(names,nameList{i}) creates a logic array
@@ -33,7 +36,7 @@ len = size(nameList);
 for i = 1:len
    resDeg.(nameList{i})=table2array(resMat(strcmpi(names,nameList{i}),:));
    %select the data for a specific starting and ending date: 
-   resDeg.(nameList{i}) = resDeg.(nameList{i})(resDeg.(nameList{i})(:,1) >= 20200101 & resDeg.(nameList{i})(:,1) <= 20220530,:);
+   resDeg.(nameList{i}) = resDeg.(nameList{i})(resDeg.(nameList{i})(:,1) >= startDate & resDeg.(nameList{i})(:,1) <= endDate,:);
 end
 
 
