@@ -1,37 +1,38 @@
 clear
 
-%Load Data 
+%% Load Data 
 
 PopulationExcelName = fullfile(pwd,'/data/populations.csv');
 
 DegreeFile = fullfile(pwd,'/Provincial_Data.csv');
 
 population = readtable(PopulationExcelName,...
-    'Range','A2:R16'); %last Column represents the population of the corresponding province/territory as of 2020.
+    'Range','A2:R16'); 
 
-%Convert numberical data to an array type. 
+%% Convert numberical data to an array type. 
+
 populationSize = table2array(population(1:end,2:end));
 
-%read all data
+%% Read all data and create names cell vector
+
 rawData = readtable(DegreeFile);
 
-%create names cell vector
-%Using region codes to avoid spaces
 names = table2array(rawData(1:end,2));
 
-%create restriction and date matrix
-resMat = rawData(1:end,3:6);
-
-%find prov names
+%find provices/territories names
 %option stable avoids sorting the data
 nameList = unique(names,'stable');
 
-%set the date for calculating the scores: 
+%% Create restriction and date matrix
+
+resMat = rawData(1:end,3:6);
+
+%% Set starting and end dates for calculating the scores: 
 startDate = 20200101; 
 endDate = 20220530;
 
-%Create resDeg data structure
-%strcmpi(names,nameList{i}) creates a logic array
+%% Create resDeg data structure which contains all the scores for provinces/territories 
+
 len = size(nameList);
 for i = 1:len
    resDeg.(nameList{i})=table2array(resMat(strcmpi(names,nameList{i}),:));
@@ -40,49 +41,46 @@ for i = 1:len
 end
 
 
+%% Calculate C1, C3, C2 degrees for Atlantic Bubble : 
 
-L_ALB = length(resDeg.ALB);
-%resDeg.(nameList{14})(:,2:4) = zeros(L_ALB,3);
-
-
-%To calculate C1, C3, C2 degrees for Atlantic Bubble : 
-l = length(resDeg.('PE')(:,1));
+%Atlantic Bubble population saved as ALB_pop: 
 ALB_pop = populationSize(14,17);
 
+l = length(resDeg.('ALB')(:,1));
+
 for w = 2:4
   for j = 1:l
     Sum = 0;
-  
+    
       for i = 1:4
-      
-        Result = resDeg.(nameList{i})(j,w).*populationSize(i,17);
-        Sum = Sum + Result;
-      end %this for loop is taking each province as i proceeds and calculates the product of C1 by its population. 
+          Result = resDeg.(nameList{i})(j,w).*populationSize(i,17);
+          Sum = Sum + Result;
+      end 
  
-  Atlantic_Bubble_Deg = round(Sum/ALB_pop);
-  resDeg.('ALB')(j,w) =  Atlantic_Bubble_Deg;
-   
-  end %this loop goes through all the rows of the same column. 
-end % this loop goes through all three columns. 
+    Atlantic_Bubble_Deg = round(Sum/ALB_pop);
+  
+    resDeg.('ALB')(j,w) =  Atlantic_Bubble_Deg;
+  end
+end 
 
 
+
+%% Calculate C1,C3,C2 scores for Canada: 
+
+%Canada population saved as CA_pop: 
 CA_pop = populationSize(15,17);
 
-% To calculate C1,C3,C2 scores for Canada: 
 for w = 2:4
   for j = 1:l
-    Sum = 0;
-  
-      for i = 1:14
-      
-        Result = resDeg.(nameList{i})(j,w).*populationSize(i,17);
-        Sum=Sum + Result;
-      end %this for loop is taking each province as i proceeds and calculates the product of C1 by its population. 
- 
-   Canada_Deg = round(Sum/CA_pop);
-   resDeg.('CA')(j,w) = Canada_Deg;
+     Sum = 0;
+      for i = 1:13
+          Result = resDeg.(nameList{i})(j,w).*populationSize(i,17);
+          Sum=Sum + Result;
+      end  
+    Canada_Deg = round(Sum/CA_pop);
+   
+    resDeg.('CA')(j,w) = Canada_Deg;
   end 
-
 end 
 
 
