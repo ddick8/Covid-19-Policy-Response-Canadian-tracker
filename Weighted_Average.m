@@ -15,7 +15,7 @@ populationSize = table2array(population(1:end,2:end));
 
 %% Read all data and create names cell vector
 
-rawData = readtable(DegreeFile);
+rawData = readtable(DegreeFile,'PreserveVariableNames',true);
 
 names = table2array(rawData(1:end,2));
 
