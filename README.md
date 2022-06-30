@@ -9,7 +9,7 @@ Information on public health measures in each province/territory was gathered us
 
 Since April 2022, [Provincial_Data.csv](https://github.com/ddick8/CovidPolicy-Canada/blob/Shirin-Amiraslani-introduction/Provincial_Data.csv) file was created which records the degree of restrictions for each province/territory and calculates the degree of restrictions in Canada and Atlantic Bubble based on [Weighted_Average](https://github.com/ddick8/CovidPolicy-Canada/blob/Shirin-Amiraslani-introduction/Weighted_Average.m). For convenience, provinces/territories in [Provincial_Data.csv](https://github.com/ddick8/CovidPolicy-Canada/blob/Shirin-Amiraslani-introduction/Provincial_Data.csv) were rearranged to match the order used in [Populations.csv](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data/Populations.csv).
 
-Please be aware that in [Provincial.csv](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Provincial.csv) and [Provincial_Data.csv](https://github.com/ddick8/CovidPolicy-Canada/blob/Shirin-Amiraslani-introduction/Provincial_Data.csv),  school (C1), workplace(C2) and other(C3), are arranged as C1, C3, C2. 
+Please be aware that in [Provincial.csv](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Provincial.csv) and [Provincial_Data.csv](https://github.com/ddick8/CovidPolicy-Canada/blob/Shirin-Amiraslani-introduction/Provincial_Data.csv), columns corresponding to the degree of restrictions in school (C1), workplace(C2) and other(C3), are arranged as C1, C3, C2. 
 
 In addition, the degree of restrictions and the news were updated every 2-3 weeks. 
 
