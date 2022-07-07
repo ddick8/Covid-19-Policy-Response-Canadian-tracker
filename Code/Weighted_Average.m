@@ -4,7 +4,7 @@ clear
 
 PopulationExcelName = fullfile(pwd,'../Data/populations.csv');
 
-DegreeFile = fullfile(pwd,'../Provincial_Data.csv');
+DegreeFile = fullfile(pwd,'../Data/Provincial_Data.csv');
 
 population = readtable(PopulationExcelName,...
     'Range','A2:R16'); 
