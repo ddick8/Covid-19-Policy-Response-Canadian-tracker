@@ -17,10 +17,10 @@ Format for Data Dictionary and CSV file on this page was adapted from Oxford COV
 
 Additionally, our dataset was compared to the dataset from Oxford COVID-19 Government Response Tracker. Side by side comparison can be found under [Dataset Comparison](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Dataset%20comparison.xls)
 
-\section{Changes to the data in [Populations.csv](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data/Populations.csv) file: }
+**Changes to the data in [Populations.csv](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data/Populations.csv) file: **
 
 
-\subsection{As of May 30, 2022:}
+*As of May 30, 2022:*
 
 
 1, Between March 1st until March 21st, the C2 (workplace) degree of restrictions for Ontario is changed to 1 as there are still some restrictions such as mask mandate in place and there are some regulatory requirements in place. 
