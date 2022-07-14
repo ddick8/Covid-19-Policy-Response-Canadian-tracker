@@ -23,13 +23,13 @@ Additionally, our dataset was compared to the dataset from Oxford COVID-19 Gover
 *As of May 30, 2022:*
 
 
-1, Between March 1st until March 21st, the C2 (workplace) degree of restrictions for Ontario is changed to 1 as there are still some restrictions such as mask mandate in place and there are some regulatory requirements in place. 
+1, Between March 1st and March 21st, the C2 (workplace) degree of restrictions for Ontario is changed to 1 as there are still some restrictions such as mask mandate in place and there are some regulatory requirements in place. 
 
-2, Between March 1st  until March 21st, the score assigned to C3 (other) for Ontario was 
-changed to 1 since there was still mask mandate in place; note that after March 21st,  
-wearing a mask is still recommend which makes C2 at the level 1 of restrictions in Ontario. 
+2, Between March 1st and March 21st, the score assigned to C3 (other) for Ontario was 
+changed to 1 since the mask mandate was still in place; note that after March 21st,  
+wearing a mask is still recommended which makes C2 at level 1 of restrictions in Ontario. 
 
-3, Between March 17th  until April 4th, mask mandate was still in place in public settings in Yukon; therefore, it is agreed upon to change the degree of restrictions (for C3) to 1 for this period. 
+3, Between March 17t and April 4th, the mask mandate was still in place in public settings in Yukon; therefore, it is agreed upon to change the degree of restrictions (for C3) to 1 for this period. 
 
-4, Between March 21st  until March 31st, C3 level of restrictions in Nova Scotia is changed to 1 as wearing a mask is still strongly recommend, and according to the definition of each degree of restriction, it is agreed to change C3 score to 1 for this period instead of 0. 
+4, Between March 21st and March 31st, the C3 level of restrictions in Nova Scotia is changed to 1 as wearing a mask is still strongly recommended, and according to the definition of each degree of restriction, it is agreed to change the C3 score to 1 for this period instead of 0. 
 
