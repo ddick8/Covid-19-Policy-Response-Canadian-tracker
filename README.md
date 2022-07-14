@@ -17,7 +17,7 @@ Format for Data Dictionary and CSV file on this page was adapted from Oxford COV
 
 Additionally, our dataset was compared to the dataset from Oxford COVID-19 Government Response Tracker. Side by side comparison can be found under [Dataset Comparison](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Dataset%20comparison.xls)
 
-__Changes to the data in [Populations.csv](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data/Populations.csv) file: __
+##Changes to the data in [Populations.csv](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data/Populations.csv) file: ##
 
 
 *As of May 30, 2022:*
