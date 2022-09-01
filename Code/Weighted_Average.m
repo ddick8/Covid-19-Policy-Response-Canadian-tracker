@@ -2,7 +2,7 @@ clear
 
 %% Load Data 
 
-PopulationExcelName = fullfile(pwd,'../Data/Populations.csv');
+PopulationExcelName = fullfile(pwd,'../Data Archive/Populations.csv');
 
 DegreeFile = fullfile(pwd,'../Data/Provincial_Data.csv');
 
