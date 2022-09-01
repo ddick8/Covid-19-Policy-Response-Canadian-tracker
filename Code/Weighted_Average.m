@@ -2,7 +2,7 @@ clear
 
 %% Load Data 
 
-PopulationExcelName = fullfile(pwd,'../Data/populations.csv');
+PopulationExcelName = fullfile(pwd,'../Data/Populations.csv');
 
 DegreeFile = fullfile(pwd,'../Data/Provincial_Data.csv');
 
@@ -29,7 +29,7 @@ resMat = rawData(1:end,3:6);
 
 %% Set starting and end dates for calculating the scores: 
 startDate = 20200101; 
-endDate = 20220530;
+endDate = 20220830;
 
 %% Create resDeg data structure which contains all the scores for provinces/territories 
 
@@ -46,7 +46,7 @@ end
 %Atlantic Bubble population saved as ALB_pop: 
 ALB_pop = populationSize(14,17);
 
-l = length(resDeg.('ALB')(:,1));
+l = length(resDeg.('NB')(:,1));
 
 for w = 2:4
   for j = 1:l
