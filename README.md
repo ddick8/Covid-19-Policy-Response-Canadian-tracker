@@ -3,7 +3,7 @@ A timeline of Covid-19 mitigation policy in Canada
 
 CovidPolicy-Canada gathers information on public health measures for each province and territory in Canada. This information can assist in understanding government responses in every province across Canada. Public policies implemented by governments were recorded on a scale from 0 to 3 to reflect the degrees of restrictions in 3 different domains: school, workplace, and other, which are denoted as C1, C2, and C3 respectively. 
 
-$$Caution$$: The degree of restrictions assigned for each province/territory is based on the public health mitigation measures in place; although the public compliance might differ from the rules the public health has in place, we decide to comply with the policy and definition of each score set initially. For full descriptions of the restrictions and their corresponding values refer to our [Data Dictionary](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data%20Dictionary.md). 
+#Caution#: The degree of restrictions assigned for each province/territory is based on the public health mitigation measures in place; although the public compliance might differ from the rules the public health has in place, we decide to comply with the policy and definition of each score set initially. For full descriptions of the restrictions and their corresponding values refer to our [Data Dictionary](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data%20Dictionary.md). 
 
 The population in each province/territory is divided by 16 age groups. [Populations.csv](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data%20Archive/Populations.csv) file records the population of each age group as well as the total population in each province/territory.
 
