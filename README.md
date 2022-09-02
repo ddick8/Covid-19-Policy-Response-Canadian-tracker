@@ -17,7 +17,7 @@ In addition, the degree of restrictions and the news were updated every 2-3 week
 
 Format for Data Dictionary and CSV file on this page was adapted from Oxford COVID-19 Government Response Tracker, Blavatnik School of Government, University of Oxford. CSV file that has dates in the following format: YYYYMMDD. 
 
-Additionally, our dataset was compared to the dataset from Oxford COVID-19 Government Response Tracker. Side by side comparison can be found under [Dataset Comparison](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data%20Archive/Dataset%20comparison-new.xls). We understand that the previous data provided by Oxford might be also updated and hence it might not be matched to what our dataset comparison indicates; for clarity, we have highlighted the date when the data was accessed from their repository in yellow.
+Additionally, our dataset was compared to the dataset from Oxford COVID-19 Government Response Tracker. Side by side comparison can be found under [Dataset Comparison](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data%20Archive/Dataset%20comparison.xlsx). We understand that the previous dataset provided by Oxford might be updated and hence it might not  match to what our dataset comparison indicates; for clarity, in Dataset%20Comparison file, we have highlighted the date when the data was accessed from their repository in yellow.
 
 
 
