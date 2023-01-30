@@ -29,7 +29,7 @@ resMat = rawData(1:end,3:6);
 
 %% Set starting and end dates for calculating the scores: 
 startDate = 20200101; 
-endDate = 20220830;
+endDate = 20230131;
 
 %% Create resDeg data structure which contains all the scores for provinces/territories 
 
