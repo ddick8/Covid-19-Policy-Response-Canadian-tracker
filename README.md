@@ -15,13 +15,12 @@ Format for Data Dictionary and CSV file on this page was adapted from Oxford COV
 
 Additionally, our dataset was compared to the dataset from Oxford COVID-19 Government Response Tracker. Side by side comparison can be found under [Dataset Comparison](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data%20Archive/Dataset%20comparison.xlsx). We understand that the previous dataset provided by Oxford might be updated and hence it might not match to what our dataset comparison indicates; for clarity, in [Dataset Comparison](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data%20Archive/Dataset%20comparison.xlsx) file, we have highlighted the date when the data was accessed from their repository in yellow.
 
-$Caution$: 
 
--The degree of restrictions assigned for each province/territory is based on the public health mitigation measures in place although the public compliance with these measures might differ. Due to a lack of data for public compliance, we have decided to base our reasoning on the public health announcements and the policy set initially. For full descriptions of the restrictions and their corresponding values refer to our [Data Dictionary](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data%20Dictionary.md). 
+The degree of restrictions assigned for each province/territory is based on the public health mitigation measures in place although the public compliance with these measures might differ. Due to a lack of data for public compliance, we have decided to base our reasoning on the public health announcements and the policy set initially. For full descriptions of the restrictions and their corresponding values refer to our [Data Dictionary](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data%20Dictionary.md). 
 
--A degree of 3 is assigned to schools, C1, during holiday breaks as schools are closed. 
+A degree of 3 is assigned to schools, C1, during holiday breaks as schools are closed. 
 
--The degree of restrictions and the news were updated every 2-3 weeks. 
+The degree of restrictions and the news were updated every 2-3 weeks. 
 
 # Changes to the data in [Provincial.csv](https://github.com/ddick8/CovidPolicy-Canada/blob/main/Data/Provincial.csv)
 
